@@ -1,0 +1,37 @@
+VIGIE-Ecole-Team · Dépôt 04_analyse · Modèle, fiabilité, prévisions, facteurs, typologie
+======================================================================
+Rôle : scientist et analyst · Défi 1 (décrochage scolaire) · mis à jour le 2026-11-17
+
+Gradient boosting comparé à la reconduction et à une régression ridge ; validation temporelle 2015-2023 ; intervalles à 80 % par zone de sécurité ; explication SHAP ; typologie des régions. Toutes les variables sont celles connues à la rentrée. Script : app/pipeline/t09_modele.py.
+
+Découpage : 17 régions et 47 provinces (2025). Séparateur des CSV : point-virgule ; encodage UTF-8 ; décimales avec un point.
+Nommage : VIGIE-Ecole-Team_ETAPE_D1_ROLE_description_vN.
+
+Fichiers (12) :
+
+- VIGIE-Ecole-Team_04-analyse_D1_analyst_typologie-17-regions_v1.csv
+    Profil des 17 régions selon les familles de facteurs, et groupe.
+- VIGIE-Ecole-Team_04-analyse_D1_scientist_bilan-modele_v1.json
+    Bilan chiffré du modèle (JSON) : erreurs, seuils d'alerte, test rétrospectif 2021-22.
+- VIGIE-Ecole-Team_04-analyse_D1_scientist_calibration-deciles_v1.csv
+    Prévu contre observé par décile de prévision.
+- VIGIE-Ecole-Team_04-analyse_D1_scientist_couverture-intervalles-80_v1.csv
+    Couverture et largeur des intervalles à 80 % par année et zone de sécurité.
+- VIGIE-Ecole-Team_04-analyse_D1_scientist_equite-erreurs-par-groupe_v1.csv
+    Erreurs et biais par groupe (filles, garçons, zones de sécurité, grandes villes).
+- VIGIE-Ecole-Team_04-analyse_D1_scientist_explication-facteurs-shap-47-provinces_v1.csv
+    Contribution de chaque facteur à la prévision de chaque province (SHAP), avec sa famille.
+- VIGIE-Ecole-Team_04-analyse_D1_scientist_fiabilite-par-annee-test_v1.csv
+    Erreurs des trois modèles par année prévue.
+- VIGIE-Ecole-Team_04-analyse_D1_scientist_fiabilite-synthese-modeles_v1.csv
+    Erreurs moyennes, corrélation de rang et capacité à repérer le top 10 %, par modèle.
+- VIGIE-Ecole-Team_04-analyse_D1_scientist_importance-globale-facteurs_v1.csv
+    Importance moyenne de chaque facteur sur l'ensemble des prévisions.
+- VIGIE-Ecole-Team_04-analyse_D1_scientist_prevision-abandon-primaire-2024-25-47-provinces_v1.csv
+    PRÉVISION 2024-25 par province : valeur, intervalle à 80 %, niveau d'alerte, élèves à risque, cause dominante, trois facteurs principaux.
+- VIGIE-Ecole-Team_04-analyse_D1_scientist_previsions-hors-echantillon-2015-2023_v1.csv
+    Prévisions faites pour chaque année 2015-2023 avec les seules années antérieures (validation).
+- VIGIE-Ecole-Team_04-analyse_D1_scientist_rapport-fiabilite_v1.pdf
+    Rapport de fiabilité : protocole, erreurs par année, calibration, équité, test 2021-22, limites.
+
+Sources : annuaires MEBAPLN-DGESS et MESFPT-DGESS ; INSD (RGPH 2019) ; ACLED ; CONASUR ; IGB/OCHA COD-AB. Détail : 01_collecte, registre des sources.

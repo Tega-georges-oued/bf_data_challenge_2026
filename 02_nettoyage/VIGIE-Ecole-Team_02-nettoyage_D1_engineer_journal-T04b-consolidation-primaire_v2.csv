@@ -1,0 +1,6 @@
+﻿etape;probleme;correction;lignes_touchees;controle
+T04b;Repartition filles/garcons fausse dans le tableau historique VIII.3 de l'edition 2024-25;Annees 2017-18 a 2024-25 reprises des tableaux contemporains III.3.3 de chaque annuaire (extraction ChatGPT verifiee);8 annees x 45 provinces x 6 niveaux x 3 sexes;"387 cases region-annee-sexe sur 390 identiques a la base principale ; ecart maximal 41 eleves"
+T04b;Revisions de l'annee 2018-19 differentes d'une edition a l'autre;Valeur de l'annuaire de l'annee elle-meme retenue;2018-19, 45 provinces;Comparaison avec la base principale
+T04b;Annees 2008-09 a 2016-17 absentes des tableaux contemporains disponibles;Conservees depuis le tableau historique corrige (T04);9 annees;Totaux nationaux compares aux publications
+T04b;Filles + garcons different du total : Oubritenga 2010-11;Signale, non modifie;7 cases;Signalement dans le controle T04b
+T04b;Komandjari 2022-23 : aucun eleve, nombre d'ecoles manquant (tableau I.1);Ecoles fixees a 0 dans les ressources;1 ligne;Coherent avec un effectif nul

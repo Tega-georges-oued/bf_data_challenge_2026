@@ -1,0 +1,122 @@
+PAGE PDF 93
+     Annexe 3 :  Définitions des  indicateurs ODD employés dans  le  rapport sur  la
+     cartographie de la pauvreté
+Lors de l’élaboration de la cartographie de la pauvreté à partir des données de l’EHCVM-2018 et du
+5è RGPH dans le cadre de l’élaboration des rapports thématique du RGPH, un certain nombre
+d’indicateurs ODD ont été calculés en plus des indicateurs de pauvreté monétaire (incidence et
+profondeur). Dans les lignes qui suivent, nous donnons un contenu à chaque indicateurs ODD tel
+qu’il a été calculé dans l’élaboration de ce rapport.
+[1] Incidence de la pauvreté (P0) : rapport entre le nombre de personnes dont le montant de la
+consommation annuelle est inférieur au seuil national de pauvreté (194 624 FCFA par personne et
+par an, 2018) et la population totale exprimé en pourcentage.
+[2] Profondeur de la pauvreté (P1) : c’est la distance moyenne qui sépare la population de la ligne
+de pauvreté lorsqu'une distance zéro est attribuée aux non-pauvres. L'écart de pauvreté est une
+mesure du déficit de pauvreté de la population entière. En l'occurrence, la notion de « déficit de
+pauvreté » traduit les ressources qui seraient nécessaires pour extraire tous les pauvres de leur
+situation par des transferts en espèces parfaitement ciblés.
+[3] Taux d’emploi des enfants, 7-14 ans : rapport entre l’effectif des personnes âgées de 7-14 ans
+occupant un emploi (travail rémunéré) et l’ensemble des personnes âgées de 7-14 ans exprimé en
+pourcentage. Il peut être calculé selon le sexe.
+[4] Taux d’emploi des jeunes, 15-24 ans : rapport entre l’effectif des personnes âgées de 15-24 ans
+occupant un emploi (travail rémunéré) et l’ensemble des personnes âgées de 15-24 ans exprimé
+en pourcentage. Il peut être calculé selon le sexe.
+[5] Taux d’emploi des adultes, 25-64 ans : rapport entre l’effectif des personnes âgées de 25-64
+ans occupant un emploi (travail rémunéré) et l’ensemble des personnes âgées de 25-64 ans
+exprimé en pourcentage. Il peut être calculé selon le sexe.
+[6] Taux de chômage des jeunes, 15-24 ans : rapport entre l’effectif des personnes âgées de 15-24
+ans en situation de chômage et l’ensemble des personnes actives âgées de 15-24 ans exprimé en
+pourcentage. Il peut être calculé selon le sexe.
+[7] Taux de chômage des adultes, 25-64 ans : rapport entre l’effectif des personnes âgées de 25-
+64 ans en situation de chômage et l’ensemble des personnes actives âgées de 25-64 ans exprimé
+en pourcentage. Il peut être calculé selon le sexe.
+[8] Pourcentage d’emplois non-salariés des jeunes, 15-24 ans : rapport entre  l’effectif des
+personnes âgées de 15-24 ans occupant des emplois non-salariés et l’ensemble des personnes
+âgées de 15-24 ans en emploi exprimé en pourcentage. Il peut être calculé selon le sexe.
+[9] Pourcentage d’emplois non-salariés des adultes, 25-64 ans : rapport entre les personnes âgées
+de 25-64 ans occupant des emplois non-salariés et l’ensemble des personnes âgées de 25-64 ans
+en emploi exprimé en pourcentage. Il peut être calculé selon le sexe.
+[10] Taux d’alphabétisation des 15-64 ans : rapport entre le nombre de personnes de 15-64 ans
+sachant lire et écrire dans une langue quelconque et la population totale des 15-64 ans exprimé en
+pourcentage. Il peut être calculé selon le sexe et des groupes d’âges spécifiques
+[11] Taux net de fréquentation scolaire – primaire : rapport entre le nombre total d’enfants âgés de
+6-11 ans scolarisés au primaire et le nombre total d’enfants de 6-11 ans exprimé en pourcentage.
+Il peut être calculé selon le sexe.
+[12] Taux net de fréquentation scolaire – post primaire : rapport entre le nombre total d’enfants
+
+   __________________________________________________________________________________________
+                                              INSD-Volume 3 du 5e RGPH – Cartographie de la pauvreté | 73
+
+PAGE PDF 94
+âgés de 12-15 ans scolarisés au post primaire et le nombre total d’enfants âgés de 12-15 ans
+exprimé en pourcentage. Il peut être calculé selon le sexe.
+[13] Taux net de fréquentation scolaire – lycée : rapport entre le nombre total d’enfants âgés de
+16-18 ans scolarisés au secondaire et le nombre total d’enfants âgés de 16-18 ans exprimé en
+pourcentage. Il peut être calculé selon le sexe.
+[14] Taux brut de fréquentation scolaire – primaire : rapport entre le nombre total d’enfants
+scolarisés au primaire et le nombre total d’enfants de 6-11 ans exprimé en pourcentage. Il peut être
+calculé selon le sexe.
+[15] Taux brut de fréquentation scolaire – collège : rapport entre le nombre total d’enfants
+scolarisés au post primaire et le nombre total d’enfants de 12-15 ans exprimé en pourcentage. Il
+peut être calculé selon le sexe.
+[16] Taux brut de fréquentation scolaire – lycée : rapport entre le nombre total d’enfants scolarisés
+au secondaire et le nombre total d’enfants de 16-18 ans exprimé en pourcentage.  Il peut être
+calculé selon le sexe.
+[17] Ratio filles/garçons – primaire : rapport entre le nombre total de filles au primaire et le nombre
+total de garçons au primaire exprimé en pourcentage
+[18] Ratio filles/garçons – collège : rapport entre le nombre total de filles au post primaire et le
+nombre total de garçons au post primaire exprimé en pourcentage
+[19] Ratio filles/garçons – lycée : rapport entre le nombre total de filles au secondaire et le nombre
+total de garçons au secondaire exprimé en pourcentage
+[20] Pourcentage des enfants de 6-11 ans hors-école : rapport entre le nombre total d’enfants de
+6-11 ans ne fréquentant pas l’école et  le nombre total d’enfants de 6-11 ans exprimé en
+pourcentage. Il peut être calculé selon le sexe.
+[21] Pourcentage des enfants de 12-15 ans hors-école : rapport entre le nombre total d’enfants de
+12-15 ans ne fréquentant pas l’école et le nombre total d’enfants de 12-15 ans exprimé en
+pourcentage. Il peut être calculé selon le sexe.
+[22] Pourcentage des enfants de 16-18 ans hors-école : rapport entre le nombre total d’enfants de
+16-18 ans ne fréquentant pas l’école et le nombre total d’enfants de 16-18 ans exprimé en
+pourcentage. Il peut être calculé selon le sexe.
+[23] Pourcentage des 15-24 ans ni à l’école, ni au travail : rapport entre le nombre total d’enfants
+de 15-24 ans qui ne sont ni à l’école, ni au travail et le nombre total d’enfants de 15-24 ans exprimé
+en pourcentage. Il peut être calculé selon le sexe.
+[24] Taux de dépendance démographique : rapport entre la population totale de moins de 18 ans et
+de plus de 64 ans et la population totale de 18-64 ans exprimé en pourcentage. Il peut être calculé
+selon le sexe et des groupes d’âges spécifiques
+[25] Pourcentage des filles de 17 ans déjà mariées : rapport entre le nombre total de filles âgées
+de 17 ans révolu vivants en couple et le nombre total de fille du même âge exprimé en pourcentage.
+[26] Pourcentage des individus enregistrés à l’état civil : rapport entre le nombre total des
+personnes enregistrés à l’état civil et le nombre total de la population exprimé en pourcentage. Il
+peut être calculé selon le sexe et des groupes d’âges spécifiques
+[27] Taux d’handicap de la population : rapport entre le nombre total de personne de 2 ans et plus
+en situation de handicap et la population totale du même groupe âge exprimé en pourcentage. Il
+   __________________________________________________________________________________________
+74 | INSD-Volume 3 du 5e RGPH – Mésure et Cartographie de la pauvreté
+
+PAGE PDF 95
+peut être calculé selon le sexe et des groupes d’âges spécifiques
+[28] Taux d’accès à des sanitaires adéquats : rapport entre le nombre total de ménages utilisant
+des sanitaires adéquats et le nombre total des ménages exprimé en pourcentage. Les sanitaires
+adéquats comprennent : la chasse d’eau personnelle, la chasse d’eau en commun, la latrine simple
+personnelle, la latrine simple en commun, la latrine ventilée personnelle et la latrine ventilée en
+commun.
+[29] Taux d’accès à l’eau potable : rapport entre le nombre total de ménages ayant accès à l’eau
+potable et le nombre total des ménages exprimé en pourcentage. Les sources d’eau potable
+considérées sont : le forage, la fontaine publique, le robinet-compteur intérieur propre, le robinet-
+compteur intérieur partagé, le robinet dans une autre cour.
+[30] Taux d’accès à l’électricité : rapport entre le nombre total de ménages utilisant l’électricité
+comme principale source d’éclairage et le nombre total de ménages exprimé en pourcentage. Les
+sources  d’électricité  d’éclairage considérées  ici sont :  l’électricité réseau (SONABEL),  les
+plateformes multifonctionnelles, les panneaux solaires, les groupes électrogènes et les batteries.
+[31] Taux d’utilisation du gaz/électricité comme combustible : rapport entre le nombre total de
+ménages qui utilise le gaz butane ou l’électricité comme principal combustible pour la cuisine et le
+nombre total de ménage exprimé en pourcentage.
+[32] Taux de possession d'un téléphone : rapport entre le nombre total des ménages possédant au
+moins un téléphone portable ou fixe en bon état de fonctionnement et le nombre total des ménages
+exprimé en pourcentage.
+
+
+
+
+
+   __________________________________________________________________________________________
+                                              INSD-Volume 3 du 5e RGPH – Cartographie de la pauvreté | 75

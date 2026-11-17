@@ -1,0 +1,70 @@
+
+Taille_Ko Name                                                                
+--------- ----                                                                
+       25 DCB_ext_HDX_InsecurityInsight_education-in-danger_BFA_2017-2026.xlsx
+      650 DCB_ext_ODA_statut_scolaire_6_16ans_RGPH2019.csv                    
+      400 Document_du_challenge_Data_Challenge_Burkina.pdf                    
+       99 DONNEES_STATISTQUES_ PRESCOLAIRE ET PRIMAIRE_2016_2025_DCB.xlsx     
+       78 liste.txt                                                           
+        1 LISEZ-MOI.txt                                                       
+    17220 Annuaire_Education_non_formelle_2018.pdf                            
+    15784 Annuaire_Education_non_formelle_2019.pdf                            
+    13586 Annuaire_Education_non_formelle_2020.pdf                            
+    15784 Annuaire_Education_non_formelle_2021.pdf                            
+    25213 Annuaire_Education_non_formelle_2024.pdf                            
+     2470 Annuaire_Prescolaire_2023-2024.pdf                                  
+     2200 Annuaire_Prescolaire_2024-2025.pdf                                  
+    22897 Annuaire_Primaire_2017-2018.pdf                                     
+    19570 Annuaire_Primaire_2018-2019.pdf                                     
+    28407 Annuaire_Primaire_2019-2020.pdf                                     
+    33808 Annuaire_Primaire_2020-2021.pdf                                     
+    17773 Annuaire_Primaire_2021-2022.pdf                                     
+    22340 Annuaire_Primaire_2022-2023.pdf                                     
+    16346 Annuaire_Primaire_2023-2024.pdf                                     
+    10471 Annuaire_Primaire_2024-2025.pdf                                     
+     3178 Synthese_Education_non_formelle_2020-2021.pdf                       
+     2151 Synthese_Education_non_formelle_2021-2022.pdf                       
+     4500 Synthese_Primaire_2017-2018.pdf                                     
+      347 Synthese_Primaire_2018-2019.pdf                                     
+     4336 Synthese_Primaire_2019-2020.pdf                                     
+     3593 Synthese_Primaire_2020-2021.pdf                                     
+     4144 Synthese_Primaire_2021-2022.pdf                                     
+     3147 Tableau_de_bord_Education_non_formelle_2015-2016.pdf                
+     3471 Tableau_de_bord_Education_non_formelle_2016-2017.pdf                
+     3319 Tableau_de_bord_Education_non_formelle_2017-2018.pdf                
+     3474 Tableau_de_bord_Education_non_formelle_2018-2019.pdf                
+     2971 Tableau_de_bord_Education_non_formelle_2019-2020.pdf                
+     3266 Tableau_de_bord_Education_non_formelle_2020-2021.pdf                
+     1538 Tableau_de_bord_Education_non_formelle_2023.pdf                     
+     1552 Tableau_de_bord_Education_non_formelle_2024.pdf                     
+     1852 Tableau_de_bord_Post_primaire_secondaire_2023.pdf                   
+     1658 Tableau_de_bord_Post_primaire_secondaire_2024.pdf                   
+     1113 Tableau_de_bord_Prescolaire_2023-2024.pdf                           
+     1554 Tableau_de_bord_Prescolaire_2023.pdf                                
+     3156 Tableau_de_bord_Primaire_2015-2016.pdf                              
+     3483 Tableau_de_bord_Primaire_2016-2017.pdf                              
+     2996 Tableau_de_bord_Primaire_2017-2018.pdf                              
+     3202 Tableau_de_bord_Primaire_2018-2019.pdf                              
+     3502 Tableau_de_bord_Primaire_2019-2020.pdf                              
+     3736 Tableau_de_bord_Primaire_2020-2021.pdf                              
+     1631 Tableau_de_bord_Primaire_2021-2022.pdf                              
+     1688 Tableau_de_bord_Primaire_2022-2023.pdf                              
+     1580 Tableau_de_bord_Primaire_2023-2024.pdf                              
+     1959 Annuaire_Formation_professionnelle_2025.pdf                         
+     6223 Annuaire_Post_primaire_secondaire_2018-2019.pdf                     
+     8139 Annuaire_Post_primaire_secondaire_2019-2020.pdf                     
+     8817 Annuaire_Post_primaire_secondaire_2020-2021.pdf                     
+     7532 Annuaire_Post_primaire_secondaire_2021-2022.pdf                     
+     8376 Annuaire_Post_primaire_secondaire_2022-2023.pdf                     
+     3925 Annuaire_Post_primaire_secondaire_2024-2025.pdf                     
+     2631 Tableau_de_bord_Post_primaire_secondaire_2015-2016.pdf              
+     2528 Tableau_de_bord_Post_primaire_secondaire_2016-2017.pdf              
+     3045 Tableau_de_bord_Post_primaire_secondaire_2017-2018.pdf              
+     2846 Tableau_de_bord_Post_primaire_secondaire_2018-2019.pdf              
+     3850 Tableau_de_bord_Post_primaire_secondaire_2019-2020.pdf              
+     4478 Tableau_de_bord_Post_primaire_secondaire_2020-2021.pdf              
+     2312 Tableau_de_bord_Post_primaire_secondaire_2021-2022.pdf              
+     1994 Tableau_de_bord_Post_primaire_secondaire_2024-2025.pdf              
+
+
+

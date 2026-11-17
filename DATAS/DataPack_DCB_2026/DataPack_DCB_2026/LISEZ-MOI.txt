@@ -1,0 +1,28 @@
+DATA PACK OFFICIEL – DATA CHALLENGE BURKINA 2026 (Éducation)
+=============================================================
+
+Structure
+  00_Documentation_et_Referentiels/  Catalogue des sources x défis (Excel), manifeste des téléchargements,
+                                     questionnaire et documentation du RGPH 2019
+  01_Education_MENAPLN_DGESS/        61 publications DGESS (annuaires, synthèses, tableaux de bord, dépliants),
+                                     post-primaire, supérieur, 25 rapports mensuels ESU, séries Banque mondiale
+  02_Demographie_INSD/               Projections 2020-2035, RGPH 2019 (dont fichier des localités),
+                                     annuaires statistiques nationaux 2015-2024 et régionaux 2024
+  03_Conditions_de_Vie_et_Emploi/    EHCVM 2021, EDS 2021, profils régionaux de pauvreté, tableau de bord social,
+                                     marché de l'emploi, personnes déplacées internes (CONASUR)
+  04_Cartographie_SIG/               Limites administratives COD-AB (P-codes) et écoles géolocalisées (OSM)
+  data/                              Toutes les sources converties en CSV (même arborescence que ci-dessus)
+
+Format des CSV (dossier data/)
+  Séparateur « ; », encodage UTF-8.
+  PDF -> colonnes : document ; page ; ligne ; nb_cellules ; c1 ... cN  (une ligne de tableau = une ligne CSV).
+  Les tableaux restent à remettre en forme (en-têtes multi-lignes, régions en titre de bloc) : c'est une partie du travail attendu.
+  Rapports ESU scannés : extraits par OCR (colonne methode = « OCR - a verifier »).
+  Excel -> une feuille = un CSV (nom_fichier__feuille.csv).
+
+Points d'attention
+  - Nomenclature : COD-AB et l'ASN 2024 utilisent le nouveau découpage (17 régions, 47 provinces) ; les données DGESS,
+    les annuaires régionaux et les écoles OSM utilisent les 13 anciennes régions. Correspondance : adm3_pcode_old <-> adm3_pcode
+    dans 04_Cartographie_SIG/COD-AB_limites_administratives/bfa_admin_boundaries.xlsx.
+  - Microdonnées individuelles (RGPH, EHCVM, EDS) non incluses : licence nominative INSD / DHS.
+  - Voir l'onglet « Non_collecte » du catalogue pour les jeux manquants.

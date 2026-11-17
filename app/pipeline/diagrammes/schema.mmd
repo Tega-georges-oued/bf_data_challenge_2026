@@ -1,0 +1,23 @@
+erDiagram
+  REFERENTIEL_COMMUNES ||--o{ PASSAGE_PROVINCES : "adm3 -> old_adm2_pcode"
+  PASSAGE_PROVINCES ||--o{ FLUX_PRIMAIRE_45 : "old_adm2_pcode (poids population 2019)"
+  EFFECTIFS_PRIMAIRE ||--o{ FLUX_PRIMAIRE_45 : "old_adm2_pcode, annee, niveau, sexe"
+  RESSOURCES_PRIMAIRE ||--o{ FLUX_PRIMAIRE_45 : "ecoles par annee"
+  FLUX_PRIMAIRE_45 ||--o{ INDICATEURS_47 : "agregation adm2_pcode"
+  POST_PRIMAIRE ||--o{ INDICATEURS_47 : "taux publies"
+  INDICATEURS_47 ||--o{ INDICATEURS_17 : "adm1_pcode"
+  INDICATEURS_17 ||--o{ INDICATEURS_NATIONAL : "pays"
+  INDICATEURS_47 ||--|| TABLE_ANALYSE_47 : "adm2_pcode, annee_depart"
+  ACLED_MOIS ||--o{ TABLE_ANALYSE_47 : "fenetres 12 et 3 mois"
+  PDI_CONASUR ||--o{ TABLE_ANALYSE_47 : "dernier releve avant rentree"
+  RGPH_2019 ||--o{ TABLE_ANALYSE_47 : "contexte fixe"
+  TABLE_ANALYSE_47 ||--o{ PREVISION_47 : "modele"
+  PREVISION_47 ||--o{ SHAP_47 : "adm2_pcode"
+  PREVISION_47 ||--o{ TYPOLOGIE_17 : "adm1_name"
+  REFERENTIEL_COMMUNES { string adm3_pcode PK string adm2_pcode string adm1_pcode string adm2_pcode_old int population_2019 }
+  PASSAGE_PROVINCES { string old_adm2_pcode PK string adm2_pcode PK float poids_pop_2019 }
+  EFFECTIFS_PRIMAIRE { string old_adm2_pcode PK string annee_scolaire PK string niveau PK string sexe PK int effectif int redoublants }
+  FLUX_PRIMAIRE_45 { string old_adm2_pcode PK string annee_depart PK string sexe PK float sorties_nettes float effet_fermetures }
+  INDICATEURS_47 { string adm2_pcode PK string annee_depart PK string sexe PK float taux_abandon_dgess float taux_abandon_corrige }
+  TABLE_ANALYSE_47 { string adm2_pcode PK int an PK float facteurs bool ligne_prevision }
+  PREVISION_47 { string adm2_pcode PK float prevision float intervalle_80 string niveau_alerte string cause_dominante }

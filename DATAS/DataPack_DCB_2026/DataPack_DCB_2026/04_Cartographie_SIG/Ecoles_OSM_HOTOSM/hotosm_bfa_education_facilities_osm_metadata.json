@@ -1,0 +1,199 @@
+{
+  "type": "Collection",
+  "id": "hotosm_bfa_education_facilities",
+  "stac_version": "1.1.0",
+  "description": "Education facilities: schools, kindergartens, colleges, and universities tagged via `amenity` or `building`. Useful for school-access mapping, education planning, and resource allocation.\n\nCoverage reflects where volunteer mappers have been active. Urban areas are usually well represented, remote areas may be sparse. Cross-check critical decisions with local field knowledge.\n\n- Source: [OpenStreetMap](https://www.openstreetmap.org), a free, collaborative world map\n- Tags: [amenity](https://wiki.openstreetmap.org/wiki/Key:amenity), [building](https://wiki.openstreetmap.org/wiki/Key:building)\n- Part of the [country exports on HDX](https://data.humdata.org/organization/hot/) by [HOT](https://www.hotosm.org/)\n",
+  "links": [
+    {
+      "rel": "license",
+      "href": "https://opendatacommons.org/licenses/odbl/1-0/",
+      "title": "Open Database License (ODC-ODbL)"
+    },
+    {
+      "rel": "item",
+      "href": "https://production-raw-data-api.s3.amazonaws.com/ISO3/BFA/education_facilities/hotosm_bfa_education_facilities_osm_item.json",
+      "type": "application/json",
+      "title": "Education Facilities of Burkina Faso"
+    },
+    {
+      "rel": "self",
+      "href": "https://production-raw-data-api.s3.amazonaws.com/ISO3/BFA/education_facilities/hotosm_bfa_education_facilities_osm_metadata.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "root",
+      "href": "https://production-raw-data-api.s3.amazonaws.com/ISO3/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "https://production-raw-data-api.s3.amazonaws.com/ISO3/BFA/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "via",
+      "href": "https://data.humdata.org/dataset/hotosm_bfa_education_facilities",
+      "title": "HDX dataset"
+    },
+    {
+      "rel": "alternate",
+      "href": "https://production-raw-data-api.s3.amazonaws.com/ISO3/BFA/education_facilities/hotosm_bfa_education_facilities_report.html",
+      "type": "text/html",
+      "title": "Dataset page"
+    },
+    {
+      "rel": "related",
+      "href": "https://production-raw-data-api.s3.amazonaws.com/ISO3/BFA/buildings/hotosm_bfa_buildings_osm_metadata.json",
+      "type": "application/json",
+      "title": "Buildings"
+    },
+    {
+      "rel": "related",
+      "href": "https://production-raw-data-api.s3.amazonaws.com/ISO3/BFA/roads/hotosm_bfa_roads_osm_metadata.json",
+      "type": "application/json",
+      "title": "Roads"
+    },
+    {
+      "rel": "related",
+      "href": "https://production-raw-data-api.s3.amazonaws.com/ISO3/BFA/waterways/hotosm_bfa_waterways_osm_metadata.json",
+      "type": "application/json",
+      "title": "Waterways"
+    },
+    {
+      "rel": "related",
+      "href": "https://production-raw-data-api.s3.amazonaws.com/ISO3/BFA/railways/hotosm_bfa_railways_osm_metadata.json",
+      "type": "application/json",
+      "title": "Railways"
+    },
+    {
+      "rel": "related",
+      "href": "https://production-raw-data-api.s3.amazonaws.com/ISO3/BFA/health_facilities/hotosm_bfa_health_facilities_osm_metadata.json",
+      "type": "application/json",
+      "title": "Health Facilities"
+    },
+    {
+      "rel": "related",
+      "href": "https://production-raw-data-api.s3.amazonaws.com/ISO3/BFA/populated_places/hotosm_bfa_populated_places_osm_metadata.json",
+      "type": "application/json",
+      "title": "Populated Places"
+    },
+    {
+      "rel": "related",
+      "href": "https://production-raw-data-api.s3.amazonaws.com/ISO3/BFA/financial_services/hotosm_bfa_financial_services_osm_metadata.json",
+      "type": "application/json",
+      "title": "Financial Services"
+    },
+    {
+      "rel": "related",
+      "href": "https://production-raw-data-api.s3.amazonaws.com/ISO3/BFA/airports/hotosm_bfa_airports_osm_metadata.json",
+      "type": "application/json",
+      "title": "Airports"
+    },
+    {
+      "rel": "related",
+      "href": "https://production-raw-data-api.s3.amazonaws.com/ISO3/BFA/sea_ports/hotosm_bfa_sea_ports_osm_metadata.json",
+      "type": "application/json",
+      "title": "Sea Ports"
+    },
+    {
+      "rel": "related",
+      "href": "https://production-raw-data-api.s3.amazonaws.com/ISO3/BFA/points_of_interest/hotosm_bfa_points_of_interest_osm_metadata.json",
+      "type": "application/json",
+      "title": "Points of Interest"
+    },
+    {
+      "rel": "related",
+      "href": "https://production-raw-data-api.s3.amazonaws.com/ISO3/BFA/cultural_places/hotosm_bfa_cultural_places_osm_metadata.json",
+      "type": "application/json",
+      "title": "Cultural Places"
+    }
+  ],
+  "item_assets": {
+    "geojson": {
+      "title": "GeoJSON",
+      "type": "application/zip",
+      "roles": [
+        "data"
+      ]
+    },
+    "gpkg": {
+      "title": "GeoPackage",
+      "type": "application/zip",
+      "roles": [
+        "data"
+      ]
+    },
+    "kml": {
+      "title": "KML",
+      "type": "application/zip",
+      "roles": [
+        "data"
+      ]
+    },
+    "shp": {
+      "title": "Shapefile",
+      "type": "application/zip",
+      "roles": [
+        "data"
+      ]
+    },
+    "geoparquet": {
+      "title": "GeoParquet",
+      "type": "application/vnd.apache.parquet",
+      "roles": [
+        "data"
+      ]
+    },
+    "pmtiles": {
+      "title": "Vector Tiles",
+      "type": "application/vnd.pmtiles",
+      "roles": [
+        "visual",
+        "overview"
+      ]
+    }
+  },
+  "title": "Education Facilities of Burkina Faso",
+  "extent": {
+    "spatial": {
+      "bbox": [
+        [
+          -5.60835592364171,
+          9.311783938959747,
+          2.4964213125686854,
+          15.172629411978512
+        ]
+      ]
+    },
+    "temporal": {
+      "interval": [
+        [
+          "2026-11-02T00:00:00Z",
+          "2026-11-02T00:00:00Z"
+        ]
+      ]
+    }
+  },
+  "license": "ODbL-1.0",
+  "keywords": [
+    "education facilities-schools",
+    "geodata"
+  ],
+  "providers": [
+    {
+      "name": "OpenStreetMap (Geofabrik BFA 2026-11-02)",
+      "roles": [
+        "producer",
+        "licensor"
+      ]
+    }
+  ],
+  "summaries": {
+    "oex:category": [
+      "education_facilities"
+    ],
+    "oex:source": [
+      "osm"
+    ]
+  }
+}

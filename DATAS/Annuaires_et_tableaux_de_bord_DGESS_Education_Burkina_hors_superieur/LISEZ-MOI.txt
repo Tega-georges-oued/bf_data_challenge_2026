@@ -1,0 +1,14 @@
+DOSSIER COMPLET DES PUBLICATIONS STATISTIQUES DE L’EDUCATION — BURKINA FASO
+
+Documents récupérés le 13 novembre 2026 depuis les catalogues publics du Conseil national de la statistique (CNS). Le ministère de l’Enseignement supérieur et de la Recherche (MESRI) est exclu.
+
+MENAPLN : annuaires statistiques disponibles (préscolaire, primaire, éducation non formelle), synthèses d’annuaires et 21 tableaux de bord statistiques de la DGESS.
+MESFPT : annuaires statistiques disponibles (post-primaire/secondaire et formation professionnelle) et 8 tableaux de bord statistiques de la DGESS.
+
+Les années et intitulés sont repris des notices CNS. Les documents sont classés par ministère et catégorie; les noms de fichiers ont été normalisés. Le contenu PDF n’a pas été modifié.
+
+Remarque : les notices disponibles n’offrent pas toutes une édition pour chaque année. Le catalogue MESFPT, par exemple, ne présentait pas d’annuaire post-primaire/secondaire 2023/2024 au moment de la récupération.
+
+Sources :
+https://www.cns.bf/publications/mebapln/
+https://www.cns.bf/publications/mesfpt/

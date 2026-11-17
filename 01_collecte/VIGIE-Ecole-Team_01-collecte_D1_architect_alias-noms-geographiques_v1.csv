@@ -1,0 +1,522 @@
+niveau;alias;code;decoupage
+province;BASSITENGA;BF5503;nouveau
+province;KOURITTENGA;BF4803;nouveau
+province;KARO PELI;BF5902;nouveau
+province;PASSORE;BF5402;nouveau
+province;BALE;BF6201;nouveau
+province;BOULGOU;BF4801;nouveau
+province;LOROUM;BF5401;nouveau
+province;ZIRO;BF5004;nouveau
+province;BANWA;BF6202;nouveau
+province;HOUET;BF5301;nouveau
+province;COMOE;BF4701;nouveau
+province;SENO;BF6402;nouveau
+province;KENEDOUGOU;BF5302;nouveau
+province;DJELGODJI;BF5901;nouveau
+province;KOSSIN;BF6101;nouveau
+province;YATENGA;BF5403;nouveau
+province;SANDBONDTENGA;BF4903;nouveau
+province;KOMANDJARI;BF5802;nouveau
+province;ZONDOMA;BF5404;nouveau
+province;NOUMBIEL;BF5703;nouveau
+province;TUY;BF5303;nouveau
+province;ZOUNDWEOGO;BF5103;nouveau
+province;SISSILI;BF5003;nouveau
+province;GNAGNA;BF5801;nouveau
+province;BOULKIEMDE;BF5001;nouveau
+province;NAMENTENGA;BF4902;nouveau
+province;MOUHOUN;BF6203;nouveau
+province;DYAMONGOU;BF6001;nouveau
+province;GANZOURGOU;BF5501;nouveau
+province;YAGHA;BF6403;nouveau
+province;PONI;BF5704;nouveau
+province;BAM;BF4901;nouveau
+province;KOURWEOGO;BF5502;nouveau
+province;LERABA;BF4702;nouveau
+province;IOBA;BF5702;nouveau
+province;SANGUIE;BF5002;nouveau
+province;OUDALAN;BF6401;nouveau
+province;SOUROU;BF6103;nouveau
+province;GOURMA;BF6301;nouveau
+province;GOBNANGOU;BF6002;nouveau
+province;BOUGOURIBA;BF5701;nouveau
+province;BAZEGA;BF5101;nouveau
+province;KOULPELOGO;BF4802;nouveau
+province;NAYALA;BF6102;nouveau
+province;NAHOURI;BF5102;nouveau
+province;KADIOGO;BF1300;nouveau
+province;KOMPIENGA;BF6302;nouveau
+province;BALE;BF4601;ancien
+province;BANWA;BF4602;ancien
+province;MOUHOUN;BF4604;ancien
+province;BOUGOURIBA;BF5701;ancien
+province;IOBA;BF5702;ancien
+province;NOUMBIEL;BF5703;ancien
+province;PONI;BF5704;ancien
+province;GOURMA;BF5202;ancien
+province;KOMPIENGA;BF5204;ancien
+province;HOUET;BF5301;ancien
+province;KENEDOUGOU;BF5302;ancien
+province;TUY;BF5303;ancien
+province;KADIOGO;BF1300;ancien
+province;BAM;BF4901;ancien
+province;NAMENTENGA;BF4902;ancien
+province;SANMATENGA;BF4903;ancien
+province;OUDALAN;BF5601;ancien
+province;SENO;BF5602;ancien
+province;YAGHA;BF5604;ancien
+province;BOULGOU;BF4801;ancien
+province;KOULPELOGO;BF4802;ancien
+province;KOURITTENGA;BF4803;ancien
+province;BOULKIEMDE;BF5001;ancien
+province;SANGUIE;BF5002;ancien
+province;SISSILI;BF5003;ancien
+province;ZIRO;BF5004;ancien
+province;BAZEGA;BF5101;ancien
+province;NAHOURI;BF5102;ancien
+province;ZOUNDWEOGO;BF5103;ancien
+province;OUBRITENGA;BF5503;ancien
+province;GANZOURGOU;BF5501;ancien
+province;KOURWEOGO;BF5502;ancien
+province;GNAGNA;BF5201;ancien
+province;KOMANDJARI;BF5203;ancien
+province;SOUM;BF5603;ancien
+province;KOSSI;BF4603;ancien
+province;NAYALA;BF4605;ancien
+province;SOUROU;BF4606;ancien
+province;COMOE;BF4701;ancien
+province;LERABA;BF4702;ancien
+province;TAPOA;BF5205;ancien
+province;LOROUM;BF5401;ancien
+province;PASSORE;BF5402;ancien
+province;YATENGA;BF5403;ancien
+province;ZONDOMA;BF5404;ancien
+region;BANKUI;BF62;nouveau
+region;DJORO;BF57;nouveau
+region;GOULMOU;BF63;nouveau
+region;GUIRIKO;BF53;nouveau
+region;KADIOGO;BF13;nouveau
+region;KOULSE;BF49;nouveau
+region;LIPTAKO;BF64;nouveau
+region;NAKAMBE;BF48;nouveau
+region;NANDO;BF50;nouveau
+region;NAZINON;BF51;nouveau
+region;OUBRI;BF55;nouveau
+region;SIRBA;BF58;nouveau
+region;SOUM;BF59;nouveau
+region;SOUROU;BF61;nouveau
+region;TANNOUNYAN;BF47;nouveau
+region;TAPOA;BF60;nouveau
+region;YAADGA;BF54;nouveau
+region;BOUCLE DU MOUHOUN;BF46;ancien
+region;SUD OUEST;BF57;ancien
+region;EST;BF52;ancien
+region;HAUTS BASSINS;BF53;ancien
+region;CENTRE;BF13;ancien
+region;CENTRE NORD;BF49;ancien
+region;SAHEL;BF56;ancien
+region;CENTRE EST;BF48;ancien
+region;CENTRE OUEST;BF50;ancien
+region;CENTRE SUD;BF51;ancien
+region;PLATEAU CENTRAL;BF55;ancien
+region;CASCADES;BF47;ancien
+region;NORD;BF54;ancien
+commune;AMBSOUYA;BF550301;nouveau
+commune;ABSOUYA;BF550301;nom RGPH 2019
+commune;ANDEMTENGA;BF480301;nouveau
+commune;ARBINDA;BF590201;nouveau
+commune;ARBOLLE;BF540201;nouveau
+commune;ARBOLE;BF540201;nom RGPH 2019
+commune;BAGARE;BF540202;nouveau
+commune;BAGASSI;BF620101;nouveau
+commune;BAGRE;BF480101;nouveau
+commune;BAHN;BF540101;nouveau
+commune;BANH;BF540101;nom RGPH 2019
+commune;BAKATA;BF500401;nouveau
+commune;BALAVE;BF620201;nouveau
+commune;BAMA;BF530101;nouveau
+commune;BANA;BF620102;nouveau
+commune;BANE;BF480102;nouveau
+commune;BANFORA;BF470101;nouveau
+commune;BANI;BF640201;nouveau
+commune;BANZON;BF530201;nouveau
+commune;BARABOULE;BF590101;nouveau
+commune;BARANI;BF610101;nouveau
+commune;BARGA;BF540301;nouveau
+commune;BARSALOGHO;BF490301;nouveau
+commune;BARTIEBOUGOU;BF580201;nouveau
+commune;BARTIBOUGOU;BF580201;nom RGPH 2019
+commune;BASKOURE;BF480302;nouveau
+commune;BASSI;BF540401;nouveau
+commune;BATIE;BF570301;nouveau
+commune;BEGUEDO;BF480103;nouveau
+commune;BEKUI;BF530301;nouveau
+commune;BEKUY;BF530301;nom RGPH 2019
+commune;BERE;BF510301;nouveau
+commune;BEREBA;BF530302;nouveau
+commune;BEREGADOUGOU;BF470102;nouveau
+commune;BIEHA;BF500301;nouveau
+commune;BILANGA;BF580101;nouveau
+commune;BINDE;BF510302;nouveau
+commune;BINGO;BF500101;nouveau
+commune;BISSIGA;BF480104;nouveau
+commune;BITOU;BF480105;nouveau
+commune;BITTOU;BF480105;nom RGPH 2019
+commune;BOALA;BF490201;nouveau
+commune;BOBO DIOULASSO;BF530102;nouveau
+commune;BOBO DIOULASSO SOMME DES ARRONDISSEMENTS;BF530102;nom RGPH 2019
+commune;BOGANDE;BF580102;nouveau
+commune;BOKEN;BF540204;nouveau
+commune;BOKIN;BF540204;nom RGPH 2019
+commune;BOMBOROKUI;BF610102;nouveau
+commune;BOMBOROKUY;BF610102;nom RGPH 2019
+commune;BONDOKUI;BF620301;nouveau
+commune;BONDOKUY;BF620301;nom RGPH 2019
+commune;BONI;BF530303;nouveau
+commune;BONY;BF530303;nom RGPH 2019
+commune;BOROMO;BF620103;nouveau
+commune;BOTOU;BF600101;nouveau
+commune;BOUDRI;BF550101;nouveau
+commune;BOUDRY;BF550101;nom RGPH 2019
+commune;BOUGNOUNOU;BF500402;nouveau
+commune;BOULSA;BF490202;nouveau
+commune;BOUNDORE;BF640301;nouveau
+commune;BOURA;BF500302;nouveau
+commune;BOURASSO;BF610103;nouveau
+commune;BOUROUM;BF490203;nouveau
+commune;BOUROUM BOUROUM;BF570401;nouveau
+commune;BOURZANGA;BF490101;nouveau
+commune;BOUSSE;BF550201;nouveau
+commune;BOUSSERA;BF570402;nouveau
+commune;BOUSSOU;BF540402;nouveau
+commune;BOUSSOU KOULA;BF570302;nouveau
+commune;BOUSSOUKOULA;BF570302;nom RGPH 2019
+commune;BOUSSOUMA;BF480106;nouveau
+commune;BOUSSOUMA;BF490302;nouveau
+commune;DABLO;BF490303;nouveau
+commune;DAKORO;BF470201;nouveau
+commune;DALO;BF500404;nouveau
+commune;DANDE;BF530103;nouveau
+commune;DANO;BF570201;nouveau
+commune;DAPEOLGO;BF550302;nouveau
+commune;DAPELOGO;BF550302;nom RGPH 2019
+commune;DARGO;BF490204;nouveau
+commune;DASSA;BF500201;nouveau
+commune;DEDOUGOU;BF620302;nouveau
+commune;DEOU;BF640101;nouveau
+commune;DI;BF610301;nouveau
+commune;DIABO;BF630101;nouveau
+commune;DIALGAYE;BF480303;nouveau
+commune;DIAPAGA;BF600201;nouveau
+commune;DIAPANGOU;BF630102;nouveau
+commune;DIDYR;BF500202;nouveau
+commune;DIEBOUGOU;BF570102;nouveau
+commune;DIGUEL;BF590102;nouveau
+commune;DISSIHN;BF570202;nouveau
+commune;DISSIN;BF570202;nom RGPH 2019
+commune;DJIBASSO;BF610104;nouveau
+commune;DJIBO;BF590103;nouveau
+commune;DJIGOUE;BF570403;nouveau
+commune;DJIGOUERA;BF530202;nouveau
+commune;DOKUI;BF610105;nouveau
+commune;DOKUY;BF610105;nom RGPH 2019
+commune;DOLO;BF570103;nouveau
+commune;DORI;BF640202;nouveau
+commune;DOULOUGOU;BF510101;nouveau
+commune;DOUMBALA;BF610106;nouveau
+commune;DOUNA;BF470202;nouveau
+commune;DOUROULA;BF620303;nouveau
+commune;DOURTENGA;BF480202;nouveau
+commune;FADA NGOURMA;BF630103;nouveau
+commune;FALAGOUNTOU;BF640203;nouveau
+commune;FARA;BF620104;nouveau
+commune;FARAMANA;BF530104;nouveau
+commune;FO;BF530105;nouveau
+commune;FOUNZAN;BF530304;nouveau
+commune;FOUTOURI;BF580202;nouveau
+commune;GAO;BF500405;nouveau
+commune;GAONGO;BF510102;nouveau
+commune;GAOUA;BF570404;nouveau
+commune;GARANGO;BF480107;nouveau
+commune;GASSAN;BF610201;nouveau
+commune;GAYERI;BF580203;nouveau
+commune;GBOMBLORA;BF570405;nouveau
+commune;GBONDJIGUI;BF570101;nouveau
+commune;BONDIGUI;BF570101;nom RGPH 2019
+commune;GODYR;BF500203;nouveau
+commune;GOGO;BF510303;nouveau
+commune;GOMBORO;BF610302;nouveau
+commune;GOMBOUSSOUGOU;BF510304;nouveau
+commune;GOMPONSOM;BF540205;nouveau
+commune;GORGADJI;BF640204;nouveau
+commune;GOROM GOROM;BF640102;nouveau
+commune;GOSSINA;BF610202;nouveau
+commune;GOUNGUEN;BF480304;nouveau
+commune;GOUNGHIN;BF480304;nom RGPH 2019
+commune;GOURSI;BF540403;nouveau
+commune;GOURCY;BF540403;nom RGPH 2019
+commune;GUEGUERE;BF570203;nouveau
+commune;GUIARO;BF510201;nouveau
+commune;GUIBA;BF510305;nouveau
+commune;GUIBARE;BF490102;nouveau
+commune;HOUNDE;BF530305;nouveau
+commune;IMASGHO;BF500102;nouveau
+commune;IOLONIORO;BF570104;nouveau
+commune;IPELSE;BF510103;nouveau
+commune;IPELCE;BF510103;nom RGPH 2019
+commune;KAIN;BF540302;nouveau
+commune;KALSAKA;BF540303;nouveau
+commune;KAMPTI;BF570406;nouveau
+commune;KANDO;BF480305;nouveau
+commune;KANGALA;BF530203;nouveau
+commune;KANKALABA;BF470203;nouveau
+commune;KANTCHARI;BF600102;nouveau
+commune;KARANGASSO SAMBLA;BF530106;nouveau
+commune;KARANKASSO;BF530106;nom RGPH 2019
+commune;KARANGASSO VIGUE;BF530107;nouveau
+commune;KARANKASSO VIGUE;BF530107;nom RGPH 2019
+commune;KASSOU;BF500403;nouveau
+commune;CASSOU;BF500403;nom RGPH 2019
+commune;KASSOUM;BF610303;nouveau
+commune;KAYA;BF490304;nouveau
+commune;KAYAN;BF530204;nouveau
+commune;KAYAO;BF510104;nouveau
+commune;KELBO;BF590104;nouveau
+commune;KIEMBARA;BF610304;nouveau
+commune;KINDI;BF500103;nouveau
+commune;KIRSI;BF540206;nouveau
+commune;KOALA;BF580103;nouveau
+commune;COALLA;BF580103;nom RGPH 2019
+commune;KOGHO;BF550102;nouveau
+commune;KOKOLOGO;BF500104;nouveau
+commune;KOKOLOKO;BF500104;nom RGPH 2019
+commune;KOLOKO;BF530205;nouveau
+commune;KOMBISSIRI;BF510105;nouveau
+commune;KOMBORI;BF610107;nouveau
+commune;KOMIN YANGA;BF480201;nouveau
+commune;COMIN YANGA;BF480201;nom RGPH 2019
+commune;KOMKI IPALA;BF130001;nouveau
+commune;KOMPIENGA;BF630201;nouveau
+commune;KOMSILGA;BF130002;nouveau
+commune;KOMTOEGA;BF480108;nouveau
+commune;KONA;BF620304;nouveau
+commune;KONGOUSSI;BF490103;nouveau
+commune;KOPER;BF570204;nouveau
+commune;KORDIE;BF500204;nouveau
+commune;KORSIMORO;BF490305;nouveau
+commune;KOSSOUKA;BF540304;nouveau
+commune;KOTI;BF530306;nouveau
+commune;KOUBRI;BF130003;nouveau
+commune;KOUDOUGOU;BF500105;nouveau
+commune;KOUGNY;BF610203;nouveau
+commune;KOUKA;BF620202;nouveau
+commune;KOUMBIA;BF530307;nouveau
+commune;KOUMBRI;BF540305;nouveau
+commune;KOUNDOUGOU;BF530108;nouveau
+commune;KOUPELA;BF480306;nouveau
+commune;KOURINION;BF530206;nouveau
+commune;KOURIGNON;BF530206;nom RGPH 2019
+commune;KOUROUMA;BF530207;nouveau
+commune;KOUTOUGOU;BF590206;nouveau
+commune;KPUERE;BF570303;nouveau
+commune;KYON;BF500205;nouveau
+commune;LA TODEN;BF540207;nouveau
+commune;LA TODIN;BF540207;nom RGPH 2019
+commune;LALGAYE;BF480203;nouveau
+commune;LANFIERA;BF610305;nouveau
+commune;LANKOUE;BF610306;nouveau
+commune;LAYE;BF550202;nouveau
+commune;LEBA;BF540404;nouveau
+commune;LEGMOIN;BF570304;nouveau
+commune;LENA;BF530109;nouveau
+commune;LEO;BF500303;nouveau
+commune;LIPTOUGOU;BF580104;nouveau
+commune;LOGBOU;BF600202;nouveau
+commune;LOGOBOU;BF600202;nom RGPH 2019
+commune;LOROPENI;BF570407;nouveau
+commune;LOUMANA;BF470204;nouveau
+commune;LOUMBILA;BF550303;nouveau
+commune;MADJOARI;BF630202;nouveau
+commune;MADOUBA;BF610108;nouveau
+commune;MALBA;BF570408;nouveau
+commune;MANE;BF490306;nouveau
+commune;MANGA;BF510306;nouveau
+commune;MANGODARA;BF470103;nouveau
+commune;MANI;BF580105;nouveau
+commune;MANSILA;BF640302;nouveau
+commune;MARKOYE;BF640103;nouveau
+commune;MATIAKOALI;BF630104;nouveau
+commune;MATIACOALI;BF630104;nom RGPH 2019
+commune;MEGUE;BF550103;nouveau
+commune;MEGUET;BF550103;nom RGPH 2019
+commune;MIDEBDO;BF570305;nouveau
+commune;MOGTEDO;BF550104;nouveau
+commune;MORLABA;BF530208;nouveau
+commune;MOROLABA;BF530208;nom RGPH 2019
+commune;MOUSSODOUGOU;BF470104;nouveau
+commune;NAGBINGOU;BF490205;nouveau
+commune;NAGREONGO;BF550304;nouveau
+commune;NAKO;BF570409;nouveau
+commune;NAMISSIGUIMA;BF490307;nouveau
+commune;NAMISSIGUIMA;BF540306;nouveau
+commune;NAMOUNO;BF600203;nouveau
+commune;NAMOUNOU;BF600203;nom RGPH 2019
+commune;NANDIALA;BF500107;nouveau
+commune;NANORO;BF500106;nouveau
+commune;NASSERE;BF490104;nouveau
+commune;NASSOUMBOU;BF590105;nouveau
+commune;NDOROLA;BF530209;nouveau
+commune;NEBIELIANAYOU;BF500304;nouveau
+commune;NIABOURI;BF500305;nouveau
+commune;NIANGOLOKO;BF470105;nouveau
+commune;NIANKORODOUGOU;BF470205;nouveau
+commune;NIAOGHO;BF480109;nouveau
+commune;NIAOGO;BF480109;nom RGPH 2019
+commune;NIEGO;BF570205;nouveau
+commune;NIOU;BF550203;nouveau
+commune;NOBERE;BF510307;nouveau
+commune;NOUNA;BF610109;nouveau
+commune;ORODARA;BF530210;nouveau
+commune;ORONKUA;BF570206;nouveau
+commune;OUAGADOUGOU;BF130004;nouveau
+commune;OUAGADOUGOU SOMME DES ARRONDISSEMENTS;BF130004;nom RGPH 2019
+commune;OUAHIGOUYA;BF540307;nouveau
+commune;OUARGAYE;BF480204;nouveau
+commune;OUARKOYE;BF620305;nouveau
+commune;OUELENI;BF470206;nouveau
+commune;OUESSA;BF570207;nouveau
+commune;OUINDIGUI;BF540102;nouveau
+commune;OULA;BF540308;nouveau
+commune;OUO;BF470106;nouveau
+commune;OURGOU MANEGA;BF550305;nouveau
+commune;OURI;BF620105;nouveau
+commune;OURY;BF620105;nom RGPH 2019
+commune;OURSI;BF640104;nouveau
+commune;PA;BF620106;nouveau
+commune;PABRE;BF130005;nouveau
+commune;PADEMA;BF530110;nouveau
+commune;PAMA;BF630203;nouveau
+commune;PARTIAGA;BF600204;nouveau
+commune;PELLA;BF500108;nouveau
+commune;PENI;BF530111;nouveau
+commune;PENSA;BF490308;nouveau
+commune;PERIGBAN;BF570410;nouveau
+commune;PIBAORE;BF490309;nouveau
+commune;PIELA;BF580106;nouveau
+commune;PILIMPIKOU;BF540208;nouveau
+commune;PISSILA;BF490310;nouveau
+commune;PO;BF510202;nouveau
+commune;POA;BF500109;nouveau
+commune;POBE MENGAO;BF590106;nouveau
+commune;POMPOI;BF620107;nouveau
+commune;POUNI;BF500206;nouveau
+commune;POURA;BF620108;nouveau
+commune;POUYTENGA;BF480307;nouveau
+commune;RAMBO;BF540309;nouveau
+commune;RAMONGO;BF500110;nouveau
+commune;REO;BF500207;nouveau
+commune;ROLLO;BF490105;nouveau
+commune;ROUKO;BF490106;nouveau
+commune;SAABA;BF130006;nouveau
+commune;SABOU;BF500111;nouveau
+commune;SABSE;BF490107;nouveau
+commune;SABCE;BF490107;nom RGPH 2019
+commune;SAFANE;BF620306;nouveau
+commune;SAMBA;BF540209;nouveau
+commune;SAMI;BF620203;nouveau
+commune;SAMOGOGOUAN;BF530212;nouveau
+commune;SAMOROGOUAN;BF530212;nom RGPH 2019
+commune;SAMOGOYIRI;BF530211;nouveau
+commune;SAMOGOHIRI;BF530211;nom RGPH 2019
+commune;SAMPELGA;BF640205;nouveau
+commune;SANABA;BF620204;nouveau
+commune;SANGHA;BF480205;nouveau
+commune;SANGA;BF480205;nom RGPH 2019
+commune;SAOLGO;BF550105;nouveau
+commune;SALOGO;BF550105;nom RGPH 2019
+commune;SAPONE;BF510106;nouveau
+commune;SAPOUY;BF500406;nouveau
+commune;SATIRI;BF530112;nouveau
+commune;SEBBA;BF640303;nouveau
+commune;SENGUENEGA;BF540310;nouveau
+commune;SEGUENEGA;BF540310;nom RGPH 2019
+commune;SEYTENGA;BF640206;nouveau
+commune;SIBY;BF620109;nouveau
+commune;SIDERADOUGOU;BF470107;nouveau
+commune;SIGLE;BF500112;nouveau
+commune;SILLY;BF500306;nouveau
+commune;SINDO;BF530213;nouveau
+commune;SINDOU;BF470207;nouveau
+commune;SOA;BF500113;nouveau
+commune;SOAW;BF500113;nom RGPH 2019
+commune;SOLENZO;BF620205;nouveau
+commune;SOLHAN;BF640304;nouveau
+commune;SOLLE;BF540103;nouveau
+commune;SONO;BF610110;nouveau
+commune;SOUBAKANIEDOUGOU;BF470108;nouveau
+commune;SOUDOUGUI;BF480206;nouveau
+commune;SOURGOU;BF500114;nouveau
+commune;SOURGOUBILA;BF550204;nouveau
+commune;TAMBAGA;BF600205;nouveau
+commune;TANGAYE;BF540311;nouveau
+commune;TANGUEN DASSOURI;BF130007;nouveau
+commune;TANGHIN DASSOURI;BF130007;nom RGPH 2019
+commune;TANKOUGOUNADIE;BF640305;nouveau
+commune;TANSARGA;BF600206;nouveau
+commune;TANSILA;BF620206;nouveau
+commune;TCHERIBA;BF620307;nouveau
+commune;TENADO;BF500208;nouveau
+commune;TENKODOGO;BF480110;nouveau
+commune;TENSOBENTENGA;BF480308;nouveau
+commune;THION;BF580107;nouveau
+commune;THIOU;BF500115;nouveau
+commune;THYOU;BF500115;nom RGPH 2019
+commune;THIOU;BF540312;nouveau
+commune;TIANKOURA;BF570105;nouveau
+commune;TIBGA;BF630105;nouveau
+commune;TIEBELE;BF510203;nouveau
+commune;TIEFORA;BF470109;nouveau
+commune;TIKARE;BF490108;nouveau
+commune;TIN AKOFF;BF640105;nouveau
+commune;TITABE;BF640306;nouveau
+commune;TITAO;BF540104;nouveau
+commune;TO;BF500307;nouveau
+commune;TOECE;BF510107;nouveau
+commune;TOEGUEN;BF550205;nouveau
+commune;TOEGHIN;BF550205;nom RGPH 2019
+commune;TOENI;BF610307;nouveau
+commune;TOMA;BF610204;nouveau
+commune;TONGOMAYEL;BF590107;nouveau
+commune;TOUGAN;BF610308;nouveau
+commune;TOUGO;BF540405;nouveau
+commune;TOUGOURI;BF490206;nouveau
+commune;TOUSSIANA;BF530113;nouveau
+commune;WOLONKOTO;BF470208;nouveau
+commune;YABA;BF610205;nouveau
+commune;YAHO;BF620110;nouveau
+commune;YAKO;BF540210;nouveau
+commune;YALGO;BF490207;nouveau
+commune;YAMBA;BF630106;nouveau
+commune;YARGATENGA;BF480207;nouveau
+commune;YARGO;BF480309;nouveau
+commune;YE;BF610206;nouveau
+commune;YONDE;BF480208;nouveau
+commune;ZABRE;BF480111;nouveau
+commune;ZAM;BF550106;nouveau
+commune;ZAMBO;BF570208;nouveau
+commune;ZAMO;BF500209;nouveau
+commune;ZAWARA;BF500210;nouveau
+commune;ZECCO;BF510204;nouveau
+commune;ZEGUEDEGUEN;BF490208;nouveau
+commune;ZEGUEDEGUIN;BF490208;nom RGPH 2019
+commune;ZIGA;BF490311;nouveau
+commune;ZIMTANGA;BF490109;nouveau
+commune;ZIMTENGA;BF490109;nom RGPH 2019
+commune;ZINIARE;BF550306;nouveau
+commune;ZIOU;BF510205;nouveau
+commune;ZITENGA;BF550307;nouveau
+commune;ZOAGA;BF480112;nouveau
+commune;ZOGORE;BF540313;nouveau
+commune;ZONSE;BF480113;nouveau
+commune;ZORGHO;BF550107;nouveau
+commune;ZOUNGOU;BF550108;nouveau

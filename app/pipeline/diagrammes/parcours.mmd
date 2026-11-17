@@ -1,0 +1,38 @@
+flowchart LR
+  subgraph S[Sources]
+    A1[Annuaires DGESS primaire<br/>2008-09 a 2024-25]
+    A2[Annuaires MESFPT<br/>post-primaire]
+    A3[INSD RGPH 2019]
+    A4[ACLED]
+    A5[CONASUR via HDX]
+    A6[COD-AB IGB/OCHA]
+  end
+  subgraph D1[01_collecte]
+    B1[Registre des sources<br/>248 fichiers, empreinte MD5]
+    B2[Referentiel 351 communes<br/>17 regions, 47 provinces]
+  end
+  subgraph D2[02_nettoyage]
+    C1[Effectifs primaire consolides<br/>45 provinces, journal]
+    C2[Ressources : ecoles, maitres, salles]
+  end
+  subgraph D3[03_transformation]
+    E1[Flux de cohorte<br/>45 anciennes provinces]
+    E2[Indicateurs 47 provinces,<br/>17 regions, national]
+    E3[Table d'analyse 47 x annees]
+  end
+  subgraph D4[04_analyse]
+    F1[Validation 2015-2023]
+    F2[Prevision 2024-25<br/>intervalles, SHAP]
+    F3[Typologie 17 regions]
+  end
+  subgraph D5[05_interpretation]
+    G1[Application VIGIE-Ecole]
+    G2[Fiches 17 regions, atlas]
+    G3[Documentation]
+  end
+  A1 & A2 --> B1 --> C1 & C2
+  A6 & A3 --> B2
+  C1 & C2 & B2 --> E1 --> E2 --> E3
+  A4 & A5 & A3 --> E3
+  E3 --> F1 --> F2 --> F3
+  F2 & F3 & E2 --> G1 & G2 --> G3

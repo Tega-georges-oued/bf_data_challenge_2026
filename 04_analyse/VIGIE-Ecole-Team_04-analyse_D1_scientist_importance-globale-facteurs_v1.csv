@@ -1,0 +1,25 @@
+facteur;shap_moyen_absolu_points;libelle;famille
+acled_deces_violence_12m_p100k;2.4119984818708797;décès liés aux violences (12 mois);Insécurité et déplacements
+acled_evenements_violence_12m_p100k;2.3461335766450233;violences (12 mois, pour 100 000 hab.);Insécurité et déplacements
+acled_evenements_civils_12m_p100k;1.7309206806981932;violences contre les civils (12 mois);Insécurité et déplacements
+eleves_par_maitre;1.5738731470352196;élèves par maître;Offre scolaire et distance
+rgph2019_hors_ecole_6_11ans;1.0640522712047924;enfants de 6-11 ans hors de l'école (2019);Pauvreté et travail des enfants
+retard_taux_abandon_dgess;1.0529680064048563;abandon de l'année précédente;Inertie scolaire
+part_eleves_plus_5km;0.9866136810491176;élèves à plus de 5 km de l'école;Offre scolaire et distance
+retard_taux_sortie_nette;0.9149811718613551;sorties nettes de l'année précédente;Inertie scolaire
+acled_variation_violence;0.7250566624744214;hausse des violences sur un an;Insécurité et déplacements
+rgph2019_parite_primaire;0.6507447058186647;parité filles-garçons au primaire (2019);Situation des filles
+acled_ev_violence_3m_rentree;0.5370510124626006;violences des 3 mois avant la rentrée;Insécurité et déplacements
+rgph2019_filles_17ans_deja_mariees;0.513351882667538;filles mariées à 17 ans (2019);Situation des filles
+pdi_pour_1000_hab;0.42431551817708435;déplacés internes pour 1 000 hab.;Insécurité et déplacements
+taux_redoublement_primaire;0.3568274915352247;taux de redoublement;Inertie scolaire
+retard_taux_effet_fermetures;0.32566722968520373;fermetures d'écoles de l'année précédente;Insécurité et déplacements
+eleves_par_salle;0.3004505975084374;élèves par salle de classe;Offre scolaire et distance
+eleves_pour_1000_hab;0.26001627292991597;élèves pour 1 000 habitants;Offre scolaire et distance
+rgph2019_acte_naissance;0.1984518304244582;enfants ayant un acte de naissance (2019);Pauvreté et travail des enfants
+rgph2019_alphabetisation_15_64ans;0.16699271740177862;alphabétisation des adultes (2019);Pauvreté et travail des enfants
+rgph2019_electricite;0.1585565978656261;accès à l'électricité (2019);Pauvreté et travail des enfants
+part_filles_primaire;0.1066967755955963;part des filles parmi les élèves;Situation des filles
+rgph2019_emploi_7_14ans;0.08477342661313386;travail des enfants de 7-14 ans (2019);Pauvreté et travail des enfants
+rgph2019_incidence_pauvrete;0.08219115331935754;pauvreté monétaire (2019);Pauvreté et travail des enfants
+rgph2019_hors_ecole_12_15ans;0.0;enfants de 12-15 ans hors de l'école (2019);Pauvreté et travail des enfants

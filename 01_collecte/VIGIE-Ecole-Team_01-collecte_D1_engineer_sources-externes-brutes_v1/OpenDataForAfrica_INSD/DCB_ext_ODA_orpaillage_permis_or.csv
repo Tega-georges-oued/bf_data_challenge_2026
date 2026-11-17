@@ -1,0 +1,461 @@
+﻿dataset_id;dim1_nom;dim1;dim2_nom;dim2;annee;valeur;unite;theme
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Total;2010;10;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Total;2011;11;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Total;2012;11;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Total;2013;13;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Total;2014;15;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Total;2015;18;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Total;2016;20;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Total;2017;26;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Total;2018;25;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Total;2019;26;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Total;2020;26;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Total;2021;27;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Total;2022;28;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Total;2023;24;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Total;2024;22;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Boucle du Mouhoun;2010;1;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Boucle du Mouhoun;2011;1;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Boucle du Mouhoun;2012;1;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Boucle du Mouhoun;2013;1;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Boucle du Mouhoun;2014;1;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Boucle du Mouhoun;2015;2;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Boucle du Mouhoun;2016;2;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Boucle du Mouhoun;2017;2;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Boucle du Mouhoun;2018;2;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Boucle du Mouhoun;2019;2;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Boucle du Mouhoun;2020;2;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Boucle du Mouhoun;2021;2;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Boucle du Mouhoun;2022;2;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Boucle du Mouhoun;2023;3;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Boucle du Mouhoun;2024;3;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Cascades;2010;0;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Cascades;2011;0;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Cascades;2012;0;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Cascades;2013;0;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Cascades;2014;1;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Cascades;2015;1;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Cascades;2016;1;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Cascades;2017;1;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Cascades;2018;1;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Cascades;2019;1;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Cascades;2020;1;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Cascades;2021;1;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Cascades;2022;1;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Cascades;2023;1;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Cascades;2024;1;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Centre;2010;0;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Centre;2011;0;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Centre;2012;0;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Centre;2013;0;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Centre;2014;0;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Centre;2015;0;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Centre;2016;0;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Centre;2017;0;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Centre;2018;0;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Centre;2019;0;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Centre;2020;0;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Centre;2021;0;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Centre;2022;0;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Centre;2023;0;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Centre;2024;0;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Centre-Est;2010;1;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Centre-Est;2011;1;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Centre-Est;2012;1;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Centre-Est;2013;1;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Centre-Est;2014;1;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Centre-Est;2015;1;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Centre-Est;2016;2;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Centre-Est;2017;2;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Centre-Est;2018;2;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Centre-Est;2019;2;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Centre-Est;2020;2;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Centre-Est;2021;2;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Centre-Est;2022;2;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Centre-Est;2023;2;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Centre-Est;2024;2;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Centre-Nord;2010;3;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Centre-Nord;2011;4;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Centre-Nord;2012;4;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Centre-Nord;2013;4;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Centre-Nord;2014;4;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Centre-Nord;2015;4;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Centre-Nord;2016;4;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Centre-Nord;2017;5;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Centre-Nord;2018;5;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Centre-Nord;2019;5;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Centre-Nord;2020;5;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Centre-Nord;2021;5;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Centre-Nord;2022;6;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Centre-Nord;2023;4;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Centre-Nord;2024;4;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Centre-Ouest;2010;1;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Centre-Ouest;2011;1;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Centre-Ouest;2012;1;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Centre-Ouest;2013;1;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Centre-Ouest;2014;1;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Centre-Ouest;2015;1;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Centre-Ouest;2016;1;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Centre-Ouest;2017;1;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Centre-Ouest;2018;1;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Centre-Ouest;2019;1;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Centre-Ouest;2020;1;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Centre-Ouest;2021;1;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Centre-Ouest;2022;1;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Centre-Ouest;2023;0;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Centre-Ouest;2024;0;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Centre-Sud;2010;0;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Centre-Sud;2011;0;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Centre-Sud;2012;0;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Centre-Sud;2013;0;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Centre-Sud;2014;0;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Centre-Sud;2015;0;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Centre-Sud;2016;0;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Centre-Sud;2017;1;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Centre-Sud;2018;1;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Centre-Sud;2019;1;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Centre-Sud;2020;1;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Centre-Sud;2021;1;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Centre-Sud;2022;2;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Centre-Sud;2023;2;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Centre-Sud;2024;2;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Est;2010;0;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Est;2011;0;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Est;2012;0;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Est;2013;0;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Est;2014;0;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Est;2015;0;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Est;2016;0;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Est;2017;1;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Est;2018;1;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Est;2019;1;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Est;2020;1;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Est;2021;1;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Est;2022;1;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Est;2023;1;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Est;2024;1;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Hauts-Bassins;2010;1;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Hauts-Bassins;2011;1;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Hauts-Bassins;2012;1;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Hauts-Bassins;2013;1;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Hauts-Bassins;2014;1;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Hauts-Bassins;2015;2;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Hauts-Bassins;2016;2;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Hauts-Bassins;2017;3;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Hauts-Bassins;2018;2;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Hauts-Bassins;2019;2;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Hauts-Bassins;2020;2;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Hauts-Bassins;2021;2;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Hauts-Bassins;2022;2;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Hauts-Bassins;2023;2;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Hauts-Bassins;2024;2;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Nord;2010;1;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Nord;2011;1;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Nord;2012;1;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Nord;2013;3;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Nord;2014;3;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Nord;2015;3;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Nord;2016;3;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Nord;2017;3;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Nord;2018;3;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Nord;2019;3;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Nord;2020;3;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Nord;2021;3;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Nord;2022;2;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Nord;2023;1;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Nord;2024;1;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Plateau Central;2010;0;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Plateau Central;2011;0;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Plateau Central;2012;0;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Plateau Central;2013;0;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Plateau Central;2014;0;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Plateau Central;2015;0;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Plateau Central;2016;1;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Plateau Central;2017;2;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Plateau Central;2018;2;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Plateau Central;2019;3;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Plateau Central;2020;3;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Plateau Central;2021;3;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Plateau Central;2022;3;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Plateau Central;2023;3;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Plateau Central;2024;3;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Sahel;2010;2;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Sahel;2011;2;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Sahel;2012;2;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Sahel;2013;2;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Sahel;2014;3;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Sahel;2015;3;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Sahel;2016;3;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Sahel;2017;4;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Sahel;2018;4;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Sahel;2019;4;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Sahel;2020;4;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Sahel;2021;4;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Sahel;2022;4;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Sahel;2023;4;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Sahel;2024;2;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Sud-Ouest;2010;0;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Sud-Ouest;2011;0;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Sud-Ouest;2012;0;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Sud-Ouest;2013;0;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Sud-Ouest;2014;0;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Sud-Ouest;2015;1;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Sud-Ouest;2016;1;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Sud-Ouest;2017;1;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Sud-Ouest;2018;1;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Sud-Ouest;2019;1;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Sud-Ouest;2020;1;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Sud-Ouest;2021;2;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Sud-Ouest;2022;2;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Sud-Ouest;2023;1;Nombre;orpaillage_permis_or
+wfqoebe;Indicateur;Nombre de permis d'exploitation de sites  d’or par région;Région;Sud-Ouest;2024;1;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Total;2010;171;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Total;2011;146;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Total;2012;149;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Total;2013;313;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Total;2014;336;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Total;2015;362;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Total;2016;63;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Total;2017;61;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Total;2018;30;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Total;2019;28;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Total;2020;10;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Total;2021;9;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Total;2022;5;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Total;2023;7;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Total;2024;8;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Boucle du Mouhoun;2010;3;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Boucle du Mouhoun;2011;3;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Boucle du Mouhoun;2012;4;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Boucle du Mouhoun;2013;7;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Boucle du Mouhoun;2014;9;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Boucle du Mouhoun;2015;9;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Boucle du Mouhoun;2016;1;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Boucle du Mouhoun;2017;0;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Boucle du Mouhoun;2018;0;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Boucle du Mouhoun;2019;0;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Boucle du Mouhoun;2020;0;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Boucle du Mouhoun;2021;0;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Boucle du Mouhoun;2022;0;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Boucle du Mouhoun;2023;0;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Boucle du Mouhoun;2024;0;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Cascades;2010;15;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Cascades;2011;15;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Cascades;2012;14;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Cascades;2013;18;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Cascades;2014;23;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Cascades;2015;23;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Cascades;2016;5;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Cascades;2017;4;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Cascades;2018;2;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Cascades;2019;3;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Cascades;2020;2;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Cascades;2021;2;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Cascades;2022;1;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Cascades;2023;3;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Cascades;2024;3;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Centre;2010;0;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Centre;2011;0;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Centre;2012;0;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Centre;2013;0;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Centre;2014;0;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Centre;2015;0;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Centre;2016;0;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Centre;2017;0;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Centre;2018;0;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Centre;2019;0;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Centre;2020;0;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Centre;2021;0;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Centre;2022;0;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Centre;2023;0;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Centre;2024;0;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Centre-Est;2010;7;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Centre-Est;2011;8;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Centre-Est;2012;9;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Centre-Est;2013;14;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Centre-Est;2014;20;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Centre-Est;2015;24;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Centre-Est;2016;2;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Centre-Est;2017;2;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Centre-Est;2018;1;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Centre-Est;2019;0;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Centre-Est;2020;0;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Centre-Est;2021;0;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Centre-Est;2022;1;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Centre-Est;2023;1;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Centre-Est;2024;1;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Centre-Nord;2010;47;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Centre-Nord;2011;31;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Centre-Nord;2012;34;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Centre-Nord;2013;65;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Centre-Nord;2014;68;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Centre-Nord;2015;70;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Centre-Nord;2016;9;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Centre-Nord;2017;6;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Centre-Nord;2018;8;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Centre-Nord;2019;7;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Centre-Nord;2020;2;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Centre-Nord;2021;2;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Centre-Nord;2022;1;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Centre-Nord;2023;1;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Centre-Nord;2024;1;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Centre-Ouest;2010;3;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Centre-Ouest;2011;0;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Centre-Ouest;2012;0;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Centre-Ouest;2013;12;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Centre-Ouest;2014;10;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Centre-Ouest;2015;12;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Centre-Ouest;2016;0;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Centre-Ouest;2017;2;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Centre-Ouest;2018;0;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Centre-Ouest;2019;0;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Centre-Ouest;2020;2;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Centre-Ouest;2021;2;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Centre-Ouest;2022;1;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Centre-Ouest;2023;1;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Centre-Ouest;2024;0;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Centre-Sud;2010;5;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Centre-Sud;2011;8;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Centre-Sud;2012;7;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Centre-Sud;2013;8;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Centre-Sud;2014;8;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Centre-Sud;2015;8;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Centre-Sud;2016;1;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Centre-Sud;2017;1;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Centre-Sud;2018;1;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Centre-Sud;2019;1;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Centre-Sud;2020;0;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Centre-Sud;2021;0;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Centre-Sud;2022;0;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Centre-Sud;2023;0;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Centre-Sud;2024;0;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Est;2010;27;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Est;2011;27;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Est;2012;26;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Est;2013;42;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Est;2014;45;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Est;2015;52;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Est;2016;6;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Est;2017;8;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Est;2018;2;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Est;2019;3;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Est;2020;1;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Est;2021;1;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Est;2022;0;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Est;2023;0;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Est;2024;0;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Hauts-Bassins;2010;6;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Hauts-Bassins;2011;9;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Hauts-Bassins;2012;11;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Hauts-Bassins;2013;24;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Hauts-Bassins;2014;23;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Hauts-Bassins;2015;24;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Hauts-Bassins;2016;2;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Hauts-Bassins;2017;1;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Hauts-Bassins;2018;0;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Hauts-Bassins;2019;0;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Hauts-Bassins;2020;1;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Hauts-Bassins;2021;1;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Hauts-Bassins;2022;0;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Hauts-Bassins;2023;0;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Hauts-Bassins;2024;0;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Nord;2010;28;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Nord;2011;16;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Nord;2012;16;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Nord;2013;22;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Nord;2014;22;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Nord;2015;22;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Nord;2016;4;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Nord;2017;6;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Nord;2018;5;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Nord;2019;5;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Nord;2020;1;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Nord;2021;1;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Nord;2022;0;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Nord;2023;0;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Nord;2024;0;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Plateau Central;2010;3;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Plateau Central;2011;0;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Plateau Central;2012;0;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Plateau Central;2013;10;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Plateau Central;2014;10;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Plateau Central;2015;10;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Plateau Central;2016;3;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Plateau Central;2017;2;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Plateau Central;2018;0;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Plateau Central;2019;0;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Plateau Central;2020;0;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Plateau Central;2021;0;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Plateau Central;2022;0;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Plateau Central;2023;0;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Plateau Central;2024;0;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Sahel;2010;4;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Sahel;2011;3;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Sahel;2012;1;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Sahel;2013;45;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Sahel;2014;46;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Sahel;2015;47;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Sahel;2016;16;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Sahel;2017;15;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Sahel;2018;3;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Sahel;2019;4;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Sahel;2020;0;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Sahel;2021;0;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Sahel;2022;0;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Sahel;2023;0;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Sahel;2024;0;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Sud-Ouest;2010;23;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Sud-Ouest;2011;26;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Sud-Ouest;2012;27;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Sud-Ouest;2013;46;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Sud-Ouest;2014;52;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Sud-Ouest;2015;61;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Sud-Ouest;2016;14;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Sud-Ouest;2017;14;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Sud-Ouest;2018;8;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Sud-Ouest;2019;5;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Sud-Ouest;2020;1;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Sud-Ouest;2021;0;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Sud-Ouest;2022;1;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Sud-Ouest;2023;1;Nombre;orpaillage_permis_or
+repbpdg;Indicateur;Nombre d’autorisations d’exploitation artisanale d’or par région;Région;Sud-Ouest;2024;3;Nombre;orpaillage_permis_or
+mjymuub;Indicateur;Nombre de permis d’exploitation par typologie (industrielle, semi-mécanisé et artisanale);Typologie;Total;2013;22;Nombre;orpaillage_permis_or
+mjymuub;Indicateur;Nombre de permis d’exploitation par typologie (industrielle, semi-mécanisé et artisanale);Typologie;Total;2014;28;Nombre;orpaillage_permis_or
+mjymuub;Indicateur;Nombre de permis d’exploitation par typologie (industrielle, semi-mécanisé et artisanale);Typologie;Total;2015;28;Nombre;orpaillage_permis_or
+mjymuub;Indicateur;Nombre de permis d’exploitation par typologie (industrielle, semi-mécanisé et artisanale);Typologie;Total;2016;11;Nombre;orpaillage_permis_or
+mjymuub;Indicateur;Nombre de permis d’exploitation par typologie (industrielle, semi-mécanisé et artisanale);Typologie;Total;2017;10;Nombre;orpaillage_permis_or
+mjymuub;Indicateur;Nombre de permis d’exploitation par typologie (industrielle, semi-mécanisé et artisanale);Typologie;Total;2018;7;Nombre;orpaillage_permis_or
+mjymuub;Indicateur;Nombre de permis d’exploitation par typologie (industrielle, semi-mécanisé et artisanale);Typologie;Total;2019;7;Nombre;orpaillage_permis_or
+mjymuub;Indicateur;Nombre de permis d’exploitation par typologie (industrielle, semi-mécanisé et artisanale);Typologie;Total;2020;6;Nombre;orpaillage_permis_or
+mjymuub;Indicateur;Nombre de permis d’exploitation par typologie (industrielle, semi-mécanisé et artisanale);Typologie;Total;2021;6;Nombre;orpaillage_permis_or
+mjymuub;Indicateur;Nombre de permis d’exploitation par typologie (industrielle, semi-mécanisé et artisanale);Typologie;Total;2022;4;Nombre;orpaillage_permis_or
+mjymuub;Indicateur;Nombre de permis d’exploitation par typologie (industrielle, semi-mécanisé et artisanale);Typologie;Industrielle;2013;0;Nombre;orpaillage_permis_or
+mjymuub;Indicateur;Nombre de permis d’exploitation par typologie (industrielle, semi-mécanisé et artisanale);Typologie;Industrielle;2014;1;Nombre;orpaillage_permis_or
+mjymuub;Indicateur;Nombre de permis d’exploitation par typologie (industrielle, semi-mécanisé et artisanale);Typologie;Industrielle;2015;1;Nombre;orpaillage_permis_or
+mjymuub;Indicateur;Nombre de permis d’exploitation par typologie (industrielle, semi-mécanisé et artisanale);Typologie;Industrielle;2016;1;Nombre;orpaillage_permis_or
+mjymuub;Indicateur;Nombre de permis d’exploitation par typologie (industrielle, semi-mécanisé et artisanale);Typologie;Industrielle;2017;1;Nombre;orpaillage_permis_or
+mjymuub;Indicateur;Nombre de permis d’exploitation par typologie (industrielle, semi-mécanisé et artisanale);Typologie;Industrielle;2018;1;Nombre;orpaillage_permis_or
+mjymuub;Indicateur;Nombre de permis d’exploitation par typologie (industrielle, semi-mécanisé et artisanale);Typologie;Industrielle;2019;1;Nombre;orpaillage_permis_or
+mjymuub;Indicateur;Nombre de permis d’exploitation par typologie (industrielle, semi-mécanisé et artisanale);Typologie;Industrielle;2020;1;Nombre;orpaillage_permis_or
+mjymuub;Indicateur;Nombre de permis d’exploitation par typologie (industrielle, semi-mécanisé et artisanale);Typologie;Industrielle;2021;1;Nombre;orpaillage_permis_or
+mjymuub;Indicateur;Nombre de permis d’exploitation par typologie (industrielle, semi-mécanisé et artisanale);Typologie;Industrielle;2022;1;Nombre;orpaillage_permis_or
+mjymuub;Indicateur;Nombre de permis d’exploitation par typologie (industrielle, semi-mécanisé et artisanale);Typologie;Semi-mécanisée;2013;4;Nombre;orpaillage_permis_or
+mjymuub;Indicateur;Nombre de permis d’exploitation par typologie (industrielle, semi-mécanisé et artisanale);Typologie;Semi-mécanisée;2014;4;Nombre;orpaillage_permis_or
+mjymuub;Indicateur;Nombre de permis d’exploitation par typologie (industrielle, semi-mécanisé et artisanale);Typologie;Semi-mécanisée;2015;4;Nombre;orpaillage_permis_or
+mjymuub;Indicateur;Nombre de permis d’exploitation par typologie (industrielle, semi-mécanisé et artisanale);Typologie;Semi-mécanisée;2016;5;Nombre;orpaillage_permis_or
+mjymuub;Indicateur;Nombre de permis d’exploitation par typologie (industrielle, semi-mécanisé et artisanale);Typologie;Semi-mécanisée;2017;5;Nombre;orpaillage_permis_or
+mjymuub;Indicateur;Nombre de permis d’exploitation par typologie (industrielle, semi-mécanisé et artisanale);Typologie;Semi-mécanisée;2018;4;Nombre;orpaillage_permis_or
+mjymuub;Indicateur;Nombre de permis d’exploitation par typologie (industrielle, semi-mécanisé et artisanale);Typologie;Semi-mécanisée;2019;3;Nombre;orpaillage_permis_or
+mjymuub;Indicateur;Nombre de permis d’exploitation par typologie (industrielle, semi-mécanisé et artisanale);Typologie;Semi-mécanisée;2020;3;Nombre;orpaillage_permis_or
+mjymuub;Indicateur;Nombre de permis d’exploitation par typologie (industrielle, semi-mécanisé et artisanale);Typologie;Semi-mécanisée;2021;3;Nombre;orpaillage_permis_or
+mjymuub;Indicateur;Nombre de permis d’exploitation par typologie (industrielle, semi-mécanisé et artisanale);Typologie;Semi-mécanisée;2022;2;Nombre;orpaillage_permis_or
+mjymuub;Indicateur;Nombre de permis d’exploitation par typologie (industrielle, semi-mécanisé et artisanale);Typologie;Artisanale;2013;18;Nombre;orpaillage_permis_or
+mjymuub;Indicateur;Nombre de permis d’exploitation par typologie (industrielle, semi-mécanisé et artisanale);Typologie;Artisanale;2014;23;Nombre;orpaillage_permis_or
+mjymuub;Indicateur;Nombre de permis d’exploitation par typologie (industrielle, semi-mécanisé et artisanale);Typologie;Artisanale;2015;23;Nombre;orpaillage_permis_or
+mjymuub;Indicateur;Nombre de permis d’exploitation par typologie (industrielle, semi-mécanisé et artisanale);Typologie;Artisanale;2016;5;Nombre;orpaillage_permis_or
+mjymuub;Indicateur;Nombre de permis d’exploitation par typologie (industrielle, semi-mécanisé et artisanale);Typologie;Artisanale;2017;4;Nombre;orpaillage_permis_or
+mjymuub;Indicateur;Nombre de permis d’exploitation par typologie (industrielle, semi-mécanisé et artisanale);Typologie;Artisanale;2018;2;Nombre;orpaillage_permis_or
+mjymuub;Indicateur;Nombre de permis d’exploitation par typologie (industrielle, semi-mécanisé et artisanale);Typologie;Artisanale;2019;3;Nombre;orpaillage_permis_or
+mjymuub;Indicateur;Nombre de permis d’exploitation par typologie (industrielle, semi-mécanisé et artisanale);Typologie;Artisanale;2020;2;Nombre;orpaillage_permis_or
+mjymuub;Indicateur;Nombre de permis d’exploitation par typologie (industrielle, semi-mécanisé et artisanale);Typologie;Artisanale;2021;2;Nombre;orpaillage_permis_or
+mjymuub;Indicateur;Nombre de permis d’exploitation par typologie (industrielle, semi-mécanisé et artisanale);Typologie;Artisanale;2022;1;Nombre;orpaillage_permis_or

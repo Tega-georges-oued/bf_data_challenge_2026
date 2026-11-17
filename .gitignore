@@ -1,0 +1,48 @@
+# Environnements virtuels Python
+.venv/
+venv/
+env/
+.app_env/
+
+# Cache et fichiers compiles Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+.coverage
+.coverage.*
+htmlcov/
+
+# Construction et distribution Python
+build/
+dist/
+*.egg-info/
+
+# Configuration locale des editeurs
+.idea/
+.vscode/
+
+# Secrets et configuration privee
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Journaux et fichiers temporaires
+*.log
+app/relancer_journal.txt
+*.tmp
+*.temp
+~$*
+*.swp
+*.swo
+
+# Fichiers du systeme
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Les sources DATAS/, les scripts, les donnees app/data/ et les
+# livrables 00_PILOTAGE/ a 05_interpretation/ restent versionnes.
