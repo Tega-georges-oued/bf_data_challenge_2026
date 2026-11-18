@@ -1,0 +1,7 @@
+VIGIE-Ecole-Team | Defi 1
+
+Cinq etapes documentees dans les archives de donnees. Le ZIP Code contient le tableau de bord et ses donnees de demonstration. Le rapport, le schema, le parcours des donnees, le rapport de fiabilite, l atlas et les fiches regionales sont consultables en PDF.
+
+La sortie du modele est etiquetee 2024-2025 et exploite des informations allant jusqu en septembre 2025.
+
+Declaration IA : Claude et ChatGPT ont contribue a la programmation, aux extractions, au controle et a la redaction sur des donnees publiques agregees. Les resultats sont a interpreter avec les limites precisees dans les rapports.

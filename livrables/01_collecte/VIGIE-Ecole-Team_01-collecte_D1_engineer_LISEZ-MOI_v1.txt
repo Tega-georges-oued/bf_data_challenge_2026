@@ -1,0 +1,66 @@
+VIGIE-Ecole-Team - Défi 1 - Dépôt 01 : collecte (version 1, 16 novembre 2026)
+===========================================================================
+
+Ce que contient ce dépôt
+------------------------
+1. VIGIE-Ecole-Team_01-collecte_D1_engineer_registre-sources_v1.csv
+   Registre de toutes les données collectées (248 fichiers) : identifiant, fichier, groupe,
+   producteur, publication, période, lien d'origine, date d'extraction, taille, empreinte MD5, statut.
+   Groupes : base principale du challenge (1), Data Pack officiel (167), publications DGESS
+   ajoutées par l'équipe depuis les catalogues du CNS (58 : 43 doublons identiques du Data Pack,
+   15 nouvelles, toutes du MESFPT), Open Data for Africa / INSD (8), HDX / OCHA (14).
+
+2. VIGIE-Ecole-Team_01-collecte_D1_engineer_sources-externes-brutes_v1.zip
+   Sources externes au Data Pack, telles que téléchargées le 16/11/2026, sans modification :
+   - OpenDataForAfrica_INSD/ : 339 jeux extraits par l'interface de données publique du portail
+     burkinafaso.opendataforafrica.org, regroupés en 7 thèmes (déscolarisés 6-16 ans par commune
+     au RGPH 2019, grossesses en milieu scolaire, mariages précoces et forcés, permis d'orpaillage,
+     fermetures pour insécurité et insécurité alimentaire, indicateurs d'éducation par province,
+     effectifs, écoles, salles et enseignants du primaire par commune) + catalogue des jeux.
+   - HDX/ : ACLED (violences par province et par mois), Insecurity Insight (attaques contre
+     l'éducation, incendies d'écoles), DHS (indicateurs par région), OPHI (pauvreté
+     multidimensionnelle), OIM-DTM (déplacés), VIEWS (prévisions de conflit), MENA (liste des écoles
+     primaires publiques 2016-17) + registre des liens.
+
+3. Référentiel géographique (rôle architect) - nouveau découpage : 17 régions, 47 provinces, 351 communes
+   - ..._architect_referentiel-communes-17-regions_v1.csv : une ligne par commune ; codes et noms du
+     nouveau découpage (COD-AB v03, 01/08/2025), ancien code, ancienne province et ancienne région,
+     superficie, population 2019 (RGPH 2019). Total contrôlé : 20 505 155 habitants, égal au
+     chiffre officiel.
+   - ..._architect_passage-anciennes-provinces-47-provinces_v1.csv : poids de répartition des
+     45 anciennes provinces vers les 47 nouvelles (population 2019). Deux anciennes provinces sont
+     scindées : Soum (Djelgodji 65,6 %, Karo-Peli 34,4 %) et Tapoa (Dyamongou 31,5 %, Gobnangou 68,5 %).
+   - ..._architect_alias-noms-geographiques_v1.csv : noms normalisés (nouveaux, anciens, graphies du
+     RGPH) vers les codes, pour joindre les sources qui écrivent les noms différemment.
+
+Sources du référentiel
+----------------------
+- IGB et OCHA, Burkina Faso - Subnational Administrative Boundaries (COD-AB), v03, 2025 (Data Pack).
+- INSD, RGPH 2019 - Synthèse des résultats définitifs, tableau 12 « Répartition spatiale de la
+  population par région, province et commune », p. 124-133 (Data Pack).
+
+Comment le reproduire
+---------------------
+Depuis le dossier BF_DATA_CHALLENGE :
+Les sources sont dans donnees/ ; les sorties dans livrables/01_collecte/.
+La colonne fichier du registre contient des chemins relatifs a donnees/.
+  python livrables/app/pipeline/t02_referentiel.py        (référentiel)
+  python livrables/app/pipeline/t03_registre_sources.py   (registre des sources)
+Le détail des appariements de noms est dans le dépôt 02_nettoyage (journal T02).
+
+Limites
+-------
+- Les données du Data Pack (869 Mo) ne sont pas redéposées : le registre les référence avec leur
+  empreinte MD5.
+- Les microdonnées de l'INSD (RGPH, EHCVM, EDS) sont sous licence et n'ont pas été demandées.
+- Les rapports d'urgence éducative après février 2026 ne sont pas publiés.
+
+
+Depot sur la plateforme
+----------------------
+Donnees : les quatre CSV de cette etape et le ZIP des sources externes.
+Documentation : ce fichier LISEZ-MOI.
+Le dossier decompresse des sources sert a consulter le ZIP localement ; ne pas le deposer en plus.
+Les scripts t02_referentiel.py, t03_registre_sources.py et utils.py sont conserves
+dans livrables/app/pipeline/ et seront fournis dans le depot de code.
+Format CSV : separateur point-virgule, encodage UTF-8, decimales avec un point.

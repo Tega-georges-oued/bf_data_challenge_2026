@@ -1,0 +1,31 @@
+VIGIE-Ecole-Team · Dépôt 02_nettoyage · Données propres et journal de nettoyage
+======================================================================
+Rôle : engineer · Défi 1 (décrochage scolaire) · mis à jour le 2026-11-17
+
+Les annuaires du primaire (MEBAPLN-DGESS) sont lus en PDF. Les tableaux historiques donnent 2008-09 à 2016-17 ; les tableaux détaillés de chaque annuaire donnent 2017-18 à 2024-25, car la répartition par sexe des tableaux historiques est fausse pour 2024-25. Contrôle : 387 cases région-année-sexe sur 390 identiques à la base principale du challenge. Scripts : livrables/app/pipeline/t04_primaire.py, t04b_consolider_primaire.py.
+
+Découpage : 17 régions et 47 provinces (2025). Séparateur des CSV : point-virgule ; encodage UTF-8 ; décimales avec un point.
+Nommage : VIGIE-Ecole-Team_ETAPE_D1_ROLE_description_vN.
+
+Fichiers (9) :
+
+- VIGIE-Ecole-Team_02-nettoyage_D1_engineer_controle-T04-totaux-regions-vs-base-principale_v1.csv
+    Contrôle : comparaison de nos totaux avec les publications ou la base principale du challenge.
+- VIGIE-Ecole-Team_02-nettoyage_D1_engineer_controle-T04b-primaire-vs-base-principale_v2.csv
+    Contrôle : comparaison de nos totaux avec les publications ou la base principale du challenge.
+- VIGIE-Ecole-Team_02-nettoyage_D1_engineer_effectifs-primaire-provinces-consolide_v2.csv
+    Effectifs et redoublants du primaire par ancienne province (45), année (2008-09 à 2024-25), classe et sexe. Série de référence.
+- VIGIE-Ecole-Team_02-nettoyage_D1_engineer_effectifs-primaire-provinces-toutes-editions_v1.csv
+    Toutes les lectures des tableaux historiques, édition par édition (traçabilité des corrections).
+- VIGIE-Ecole-Team_02-nettoyage_D1_engineer_effectifs-primaire-provinces_v1.csv
+    Effectifs lus dans les tableaux historiques (VIII.3) des annuaires, avant consolidation.
+- VIGIE-Ecole-Team_02-nettoyage_D1_engineer_journal-T02-referentiel_v1.csv
+    Journal de nettoyage : problème rencontré, correction, lignes touchées.
+- VIGIE-Ecole-Team_02-nettoyage_D1_engineer_journal-T04-primaire_v1.csv
+    Journal de nettoyage : problème rencontré, correction, lignes touchées.
+- VIGIE-Ecole-Team_02-nettoyage_D1_engineer_journal-T04b-consolidation-primaire_v2.csv
+    Journal de nettoyage : problème rencontré, correction, lignes touchées.
+- VIGIE-Ecole-Team_02-nettoyage_D1_engineer_ressources-primaire-provinces_v1.csv
+    Écoles, maîtres chargés de cours et salles de classe par ancienne province et année (tableau I.1).
+
+Sources : annuaires MEBAPLN-DGESS et MESFPT-DGESS ; INSD (RGPH 2019) ; ACLED ; CONASUR ; IGB/OCHA COD-AB. Détail : 01_collecte, registre des sources.

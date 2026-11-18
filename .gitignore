@@ -32,7 +32,8 @@ dist/
 
 # Journaux et fichiers temporaires
 *.log
-app/relancer_journal.txt
+livrables/app/relancer_journal.txt
+/tmp/
 *.tmp
 *.temp
 ~$*
@@ -44,5 +45,5 @@ Thumbs.db
 Desktop.ini
 .DS_Store
 
-# Les sources DATAS/, les scripts, les donnees app/data/ et les
-# livrables 00_PILOTAGE/ a 05_interpretation/ restent versionnes.
+# Les sources donnees/, les scripts, les donnees livrables/app/data/,
+# les documents, le pilotage et les livrables restent versionnes.

@@ -1,0 +1,84 @@
+{
+  "modele_retenu": "gbm",
+  "mae_points_par_modele": {
+    "gbm": 8.207,
+    "reconduction": 9.537,
+    "ridge": 9.968
+  },
+  "gain_mae_vs_reconduction_pct": 13.9,
+  "spearman_par_modele": {
+    "gbm": 0.501,
+    "reconduction": 0.401,
+    "ridge": 0.399
+  },
+  "part_abandons_captee_top10pct": {
+    "gbm": 0.091,
+    "reconduction": 0.064,
+    "ridge": 0.068
+  },
+  "rappel_top10pct": {
+    "gbm": 0.489,
+    "reconduction": 0.467,
+    "ridge": 0.378
+  },
+  "intervalle_80_demi_largeur_points_par_zone": {
+    "faible": 15.82,
+    "fort": 28.63
+  },
+  "couverture_80_moyenne": 0.732,
+  "test_retrospectif_2021_22": {
+    "annee": "2021-22 (abandon mesuré par l'annuaire 2022-23)",
+    "abandon_national_observe": 20.47416477319005,
+    "abandon_national_prevu_modele": 11.36856230609946,
+    "abandon_national_prevu_reconduction": 11.907255832677912,
+    "provinces_top10_observees": [
+      "Banwa",
+      "Gnagna",
+      "Komandjari",
+      "Nayala",
+      "Yagha"
+    ],
+    "provinces_top10_prevues_modele": [
+      "Dyamongou",
+      "Komandjari",
+      "Koulpélogo",
+      "Sourou",
+      "Yagha"
+    ],
+    "provinces_top10_prevues_reconduction": [
+      "Dyamongou",
+      "Gobnangou",
+      "Kompienga",
+      "Loroum",
+      "Sourou"
+    ],
+    "rappel_modele": 0.4,
+    "rappel_reconduction": 0.0
+  },
+  "post_primaire_mae_reconduction_points": 10.941889483065955,
+  "seuils_alerte": {
+    "rouge": 16.52,
+    "orange": 10.97
+  },
+  "erreur_mediane_points_par_zone_gbm": {
+    "faible": 1.95,
+    "fort": 14.4
+  },
+  "erreur_moyenne_points_par_zone_gbm": {
+    "faible": 4.48,
+    "fort": 18.22
+  },
+  "mae_ponderee_effectifs_gbm": 5.52,
+  "n_lignes_apprentissage": 703,
+  "annees_test": [
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023
+  ]
+}
