@@ -80,6 +80,8 @@ for dossier, (titre, role, texte) in ETAPES.items():
     L = [f"{TEAM} · Dépôt {dossier} · {titre}", "=" * 70, f"Rôle : {role} · Défi 1 (décrochage scolaire) · mis à jour le {AUJ}", "",
          texte, "", "Découpage : 17 régions et 47 provinces (2025). Séparateur des CSV : point-virgule ; encodage UTF-8 ; décimales avec un point.",
          "Nommage : VIGIE-Ecole-Team_ETAPE_D1_ROLE_description_vN.", "", f"Fichiers ({len(fichiers)}) :", ""]
+    if dossier == "05_interpretation":
+        L[6:6] = ["Ordre de lecture conseillé : rapport final pour la méthode, atlas national pour comparer les régions, puis fiches régionales pour examiner les alertes par province.", ""]
     for f in fichiers:
         L += [f"- {f.name}", f"    {decrire(f.name)}"]
     L += ["", "Sources : annuaires MEBAPLN-DGESS et MESFPT-DGESS ; INSD (RGPH 2019) ; ACLED ; CONASUR ; IGB/OCHA COD-AB. Détail : 01_collecte, registre des sources."]
@@ -89,9 +91,15 @@ G = [f"{TEAM} · VIGIE-École · LISEZ-MOI général", "=" * 70, f"Data Challeng
      "VIGIE-École mesure l'abandon scolaire réel au primaire (corrigé des fermetures d'écoles), le prévoit dès la rentrée pour les 47 provinces,",
      "explique ce qui pèse dans le risque et aide à décider où agir, sur le découpage de 2025 en 17 régions.", "",
      "Par où commencer", "---------------",
-     "1. Lire la documentation : livrables/05_interpretation/..._documentation_v1.pdf",
-     "2. Ouvrir l'application : pip install -r livrables/app/requirements.txt, puis streamlit run livrables/app/app.py (fonctionne sans connexion)",
-     "3. Consulter les fiches régionales et l'atlas : livrables/05_interpretation", "",
+     "1. Rapport final — comprendre le problème, les données, la méthode, les résultats et leurs limites.",
+     "2. Atlas national (8 pages) — voir où le risque se concentre et comparer les 17 régions.",
+     "3. Fiches des 17 régions — choisir une région et examiner ses alertes province par province.",
+     "4. Application — explorer les cartes et les fiches de façon interactive.",
+     "",
+     "Les trois PDF sont dans livrables/05_interpretation.",
+     "Pour lancer l'application localement depuis la racine du projet :",
+     "  pip install -r livrables/app/requirements.txt",
+     "  streamlit run livrables/app/app.py", "",
      "Les cinq dépôts", "---------------"]
 for dossier in ["01_collecte", "02_nettoyage", "03_transformation", "04_analyse", "05_interpretation"]:
     n = len([f for f in (ROOT / "livrables" / dossier).glob("*") if f.is_file()])

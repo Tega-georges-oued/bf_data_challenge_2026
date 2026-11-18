@@ -4,6 +4,8 @@ Rôle : analyst · Défi 1 (décrochage scolaire) · mis à jour le 2026-11-17
 
 L'application est dans le dossier livrables/app (lancement : streamlit run livrables/app/app.py). Les fiches et l'atlas sont produits par livrables/app/pipeline/t14_fiches_atlas.py, la documentation par t15c_documentation.py. Les pistes d'action sont des propositions à valider par l'équipe éducative.
 
+Ordre de lecture conseillé : rapport final pour la méthode, atlas national pour comparer les régions, puis fiches régionales pour examiner les alertes par province.
+
 Découpage : 17 régions et 47 provinces (2025). Séparateur des CSV : point-virgule ; encodage UTF-8 ; décimales avec un point.
 Nommage : VIGIE-Ecole-Team_ETAPE_D1_ROLE_description_vN.
 

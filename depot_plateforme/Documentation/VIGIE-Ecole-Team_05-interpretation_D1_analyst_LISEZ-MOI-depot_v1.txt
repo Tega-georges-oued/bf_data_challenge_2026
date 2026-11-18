@@ -1,7 +1,42 @@
-VIGIE-Ecole-Team | Defi 1
+VIGIE-École — Guide de lecture du dossier
+Data Challenge Burkina 2026 — Défi 1, décrochage scolaire
 
-Cinq etapes documentees dans les archives de donnees. Le ZIP Code contient le tableau de bord et ses donnees de demonstration. Le rapport, le schema, le parcours des donnees, le rapport de fiabilite, l atlas et les fiches regionales sont consultables en PDF.
+PAR OÙ COMMENCER
 
-La sortie du modele est etiquetee 2024-2025 et exploite des informations allant jusqu en septembre 2025.
+1. Rapport final (documentation_v2.pdf) — Présente le problème, les
+   sources, la méthode, les résultats et les limites de la solution.
 
-Declaration IA : Claude et ChatGPT ont contribue a la programmation, aux extractions, au controle et a la redaction sur des donnees publiques agregees. Les resultats sont a interpreter avec les limites precisees dans les rapports.
+2. Atlas national (atlas-national_v1.pdf, 8 pages) — Offre une vue
+   d'ensemble des résultats. Les cartes montrent où se concentre le
+   risque de décrochage et le classement permet de comparer les 17 régions.
+
+3. Fiches des 17 régions (fiches-17-regions_v1.pdf) — Permettent
+   d'approfondir la situation d'une région, province par province.
+
+POUR APPROFONDIR
+
+- Rapport de fiabilité — Mesure la performance du modèle, ses erreurs
+  et ses limites. Il aide à interpréter les niveaux d'alerte.
+- Schéma des données — Décrit les tables, leurs clés et leurs relations.
+- Parcours des données — Montre comment les sources sont transformées
+  en indicateurs, puis utilisées dans l'analyse et le tableau de bord.
+
+APPLICATION ET DONNÉES
+
+- Le ZIP de la rubrique Code contient le tableau de bord et ses
+  données de démonstration. Depuis le dossier de l'application extrait :
+    pip install -r requirements.txt
+    streamlit run app.py
+- Les cinq ZIP de la rubrique Données suivent les étapes du projet :
+  collecte, nettoyage, transformation, analyse et synthèse régionale.
+
+LIRE LES PRÉVISIONS
+
+La sortie du modèle est libellée 2024-2025 et s'appuie sur des
+informations disponibles jusqu'en septembre 2025. Les niveaux d'alerte
+sont à interpréter avec les limites exposées dans le rapport de fiabilité.
+
+USAGE DE L'IA
+
+Claude et ChatGPT ont contribué à la programmation, aux extractions,
+au contrôle et à la rédaction sur des données publiques agrégées.

@@ -15,14 +15,20 @@ def nouveau(titre, sous_titre=None):
         s.top_margin = s.bottom_margin = Cm(1.8); s.left_margin = s.right_margin = Cm(2)
     st = d.styles["Normal"]; st.font.name = "DejaVu Sans"; st.font.size = Pt(9.5)
     st.element.rPr.rFonts.set(qn("w:eastAsia"), "DejaVu Sans")
+    st.paragraph_format.alignment = WD_ALIGN_PARAGRAPH.JUSTIFY
+    for name in ("List Bullet", "Caption"):
+        d.styles[name].paragraph_format.alignment = WD_ALIGN_PARAGRAPH.LEFT
     st.paragraph_format.space_after = Pt(4); st.paragraph_format.line_spacing = 1.12
     for lvl, size in [(1, 14), (2, 11.5), (3, 10)]:
         h = d.styles[f"Heading {lvl}"]; h.font.name = "DejaVu Sans"; h.font.size = Pt(size); h.font.color.rgb = BLEU; h.font.bold = True
         h.element.rPr.rFonts.set(qn("w:eastAsia"), "DejaVu Sans")
+        h.paragraph_format.alignment = WD_ALIGN_PARAGRAPH.LEFT
         h.paragraph_format.space_before = Pt(10 if lvl == 1 else 6); h.paragraph_format.space_after = Pt(3)
     p = d.add_paragraph(); r = p.add_run(titre); r.bold = True; r.font.size = Pt(18); r.font.color.rgb = BLEU
     if sous_titre:
         p = d.add_paragraph(); r = p.add_run(sous_titre); r.font.size = Pt(10); r.font.color.rgb = RGBColor(0x55, 0x55, 0x55)
+    for p in d.paragraphs:
+        p.alignment = WD_ALIGN_PARAGRAPH.LEFT
     pied(d)
     return d
 
@@ -69,6 +75,10 @@ def tableau(d, entetes, lignes, largeurs=None, taille=8):
         for row in t.rows:
             for i, w in enumerate(largeurs):
                 row.cells[i].width = Cm(w)
+    for row in t.rows:
+        for cell in row.cells:
+            for p in cell.paragraphs:
+                p.alignment = WD_ALIGN_PARAGRAPH.LEFT
     d.add_paragraph().paragraph_format.space_after = Pt(2)
     return t
 

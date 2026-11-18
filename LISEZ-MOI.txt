@@ -7,9 +7,15 @@ explique ce qui pèse dans le risque et aide à décider où agir, sur le décou
 
 Par où commencer
 ---------------
-1. Lire la documentation : livrables/05_interpretation/..._documentation_v1.pdf
-2. Ouvrir l'application : pip install -r livrables/app/requirements.txt, puis streamlit run livrables/app/app.py (fonctionne sans connexion)
-3. Consulter les fiches régionales et l'atlas : livrables/05_interpretation
+1. Rapport final — comprendre le problème, les données, la méthode, les résultats et leurs limites.
+2. Atlas national (8 pages) — voir où le risque se concentre et comparer les 17 régions.
+3. Fiches des 17 régions — choisir une région et examiner ses alertes province par province.
+4. Application — explorer les cartes et les fiches de façon interactive.
+
+Les trois PDF sont dans livrables/05_interpretation.
+Pour lancer l'application localement depuis la racine du projet :
+  pip install -r livrables/app/requirements.txt
+  streamlit run livrables/app/app.py
 
 Les cinq dépôts
 ---------------

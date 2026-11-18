@@ -8,11 +8,12 @@ from pathlib import Path
 from xml.sax.saxutils import escape
 
 import matplotlib
+from docx.enum.text import WD_ALIGN_PARAGRAPH
 from docx.oxml.ns import qn
 from docx.table import Table as WordTable
 from docx.text.paragraph import Paragraph as WordParagraph
 from reportlab.lib import colors
-from reportlab.lib.enums import TA_CENTER, TA_LEFT, TA_RIGHT
+from reportlab.lib.enums import TA_CENTER, TA_JUSTIFY, TA_LEFT, TA_RIGHT
 from reportlab.lib.styles import ParagraphStyle
 from reportlab.pdfbase import pdfmetrics
 from reportlab.pdfbase.ttfonts import TTFont
@@ -56,10 +57,20 @@ def _paragraphe(p, cellule=False):
         fragments.append(text)
     text = "".join(fragments) or _texte(p.text)
     bullet = name == "List Bullet"
+    alignment = p.alignment
+    paragraph_style = p.style
+    while alignment is None and paragraph_style is not None:
+        alignment = paragraph_style.paragraph_format.alignment
+        paragraph_style = paragraph_style.base_style
+    pdf_alignment = {
+        WD_ALIGN_PARAGRAPH.CENTER: TA_CENTER,
+        WD_ALIGN_PARAGRAPH.RIGHT: TA_RIGHT,
+        WD_ALIGN_PARAGRAPH.JUSTIFY: TA_JUSTIFY,
+    }.get(alignment, TA_LEFT)
     style = ParagraphStyle("contenu", fontName="Vigie", fontSize=size, leading=size * 1.12,
                            spaceBefore=7 if heading else 0, spaceAfter=3 if cellule else 4,
                            keepWithNext=heading, textColor=colors.HexColor("#1F2D3D") if heading else colors.black,
-                           alignment={1: TA_CENTER, 2: TA_RIGHT}.get(p.alignment, TA_LEFT),
+                           alignment=pdf_alignment,
                            leftIndent=10 if bullet else 0, bulletIndent=0)
     return Paragraph(text or "&#160;", style, bulletText="•" if bullet else None)
 

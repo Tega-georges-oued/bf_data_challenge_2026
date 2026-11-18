@@ -19,6 +19,7 @@ from reportlab.lib import colors
 from reportlab.pdfbase import pdfmetrics
 from reportlab.pdfbase.ttfonts import TTFont
 from reportlab.platypus import (SimpleDocTemplate, Paragraph, Spacer, Table, TableStyle, Image, PageBreak, KeepTogether)
+from reportlab.lib.enums import TA_JUSTIFY
 from reportlab.lib.styles import ParagraphStyle
 
 ap = argparse.ArgumentParser()
@@ -91,6 +92,7 @@ def couleur_alerte(code):
 S = {k: ParagraphStyle(k, fontName="DV", fontSize=v[0], leading=v[1], textColor=colors.HexColor(v[2]))
      for k, v in {"t": (16, 19, "#1f2d3d"), "st": (8.5, 11, "#555555"), "h": (10, 13, "#1f2d3d"), "p": (8, 10.5, "#222222"),
                   "s": (6.5, 8.5, "#666666"), "k": (15, 17, "#1f2d3d"), "kl": (7, 9, "#555555"), "cell": (7, 8.6, "#222222")}.items()}
+S["p"].alignment = TA_JUSTIFY
 S["t"].fontName = S["h"].fontName = S["k"].fontName = "DVB"
 def P(t, s="p"):
     return Paragraph(t, S[s])
